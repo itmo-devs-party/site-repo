@@ -1,0 +1,26 @@
+
+.navigationbardark_navigationbardark {
+	width: 375px;
+	height: 44px;
+}
+.navigationbardark_navigationbardark .navigationbarnight {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.navigationbardark_navigationbardark .navigationbarnight .bg {
+}
+.navigationbardark_navigationbardark .navigationbarnight .iconarrowleft {
+	position: absolute;
+	left: 16px;
+	top: 10px;
+}
+.navigationbardark_navigationbardark .navigationbarnight .iconarrowleft .VectorStroke {
+	visibility: hidden;
+}
+.navigationbardark_navigationbardark .navigationbarnight .iconarrowleft .Vector3 {
+}
+.navigationbardark_navigationbardark .navigationbarnight .Title {
+	color: rgba(255,255,255,1.00);
+	font-weight: 500;
+}

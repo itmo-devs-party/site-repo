@@ -1,0 +1,781 @@
+
+.Search_Search {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+	border-radius: 69.12px;
+}
+.Search_Search .Results {
+	position: absolute;
+	left: 0px;
+	top: 837.12px;
+	width: 1440px;
+	height: 1967.264296875px;
+}
+.Search_Search .Results .Tittle {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 184.32px;
+}
+.Search_Search .Results .Tittle .Title {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 184.32px;
+}
+.Search_Search .Results .Tittle .Title .Rectangle26 {
+	width: 1440px;
+	height: 184.32px;
+}
+.Search_Search .Results .Tittle .Title .Popularcourse {
+	width: 249.6px;
+	height: 76.8px;
+	color: rgba(31,31,57,1.00);
+	font-size: 69.12px;
+	font-weight: 500;
+	line-height: 76.8px;
+}
+.Search_Search .Results .Tittle .Title .Seeall {
+	visibility: hidden;
+	width: 299.52px;
+	height: 76.8px;
+	font-size: 53.76px;
+	font-weight: 400;
+	line-height: 76.8px;
+}
+.Search_Search .Results .List {
+	position: absolute;
+	left: 76.8px;
+	top: 308.38429687499996px;
+	width: 1286.3999999999999px;
+	height: 1658.8799999999999px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Search_Search .Results .List .Courselist {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 1286.3999999999999px;
+	height: 368.64px;
+}
+.Search_Search .Results .List .Courselist .BG {
+	width: 100%;
+	height: 100%;
+	border-radius: 46.08px;
+}
+.Search_Search .Results .List .Courselist .Image {
+	width: 20.298507462686565%;
+	height: 70.83333333333334%;
+	background: linear-gradient(0deg, rgba(196,196,196,1.00), rgba(196,196,196,1.00));
+	border-radius: 30.72px;
+	background-size: cover;
+}
+.Search_Search .Results .List .Courselist .Name {
+	width: 32.23880597014925%;
+	height: 21.875%;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 63px;
+}
+.Search_Search .Results .List .Courselist .nameenx {
+	width: 31.94029850746269%;
+	height: 18.75%;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 54px;
+}
+.Search_Search .Results .List .Courselist .iconpeople {
+	position: absolute;
+	left: 449.28px;
+	top: 149.76px;
+	width: 3.582089552238806%;
+	height: 12.5%;
+}
+.Search_Search .Results .List .Courselist .iconpeople .Union {
+	width: 70.83333333333334%;
+	height: 83.33333333333334%;
+}
+.Search_Search .Results .List .Courselist .Frame17 {
+	width: 295.68px;
+	height: 92.16px;
+}
+.Search_Search .Results .List .Courselist .Frame17 .Price {
+	width: 100%;
+	height: 100%;
+}
+.Search_Search .Results .List .Courselist .Frame17 .Price ._ {
+	visibility: hidden;
+	width: 14.285714285714285%;
+	height: 100%;
+	font-size: 61.44px;
+	font-weight: 600;
+	line-height: 72px;
+}
+.Search_Search .Results .List .Courselist .Frame17 .Price ._90 {
+	width: 100%;
+	height: 100%;
+	font-size: 61.44px;
+	font-weight: 600;
+	line-height: 72px;
+}
+.Search_Search .Results .List .Courselist .Frame17 .Duration {
+	visibility: hidden;
+	width: 218.88px;
+	height: 62.5%;
+	border-radius: 49.92px;
+}
+.Search_Search .Results .List .Courselist .Frame17 .Duration .Duration_1 {
+	width: 157.44px;
+	height: 57.599999999999994px;
+	font-size: 38.4px;
+	font-weight: 400;
+	line-height: 45px;
+}
+.Search_Search .Results .List .Courselist_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 1286.3999999999999px;
+	height: 368.64px;
+}
+.Search_Search .Results .List .Courselist_1 .BG_1 {
+	width: 100%;
+	height: 100%;
+	border-radius: 46.08px;
+}
+.Search_Search .Results .List .Courselist_1 .Image_1 {
+	width: 20.298507462686565%;
+	height: 70.83333333333334%;
+	background: linear-gradient(0deg, rgba(196,196,196,1.00), rgba(196,196,196,1.00));
+	border-radius: 30.72px;
+	background-size: cover;
+}
+.Search_Search .Results .List .Courselist_1 .Name_1 {
+	width: 31.044776119402982%;
+	height: 21.875%;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 63px;
+}
+.Search_Search .Results .List .Courselist_1 .nameenx_1 {
+	width: 26.268656716417908%;
+	height: 18.75%;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 54px;
+}
+.Search_Search .Results .List .Courselist_1 .iconpeople_1 {
+	position: absolute;
+	left: 449.28px;
+	top: 149.76px;
+	width: 3.582089552238806%;
+	height: 12.5%;
+}
+.Search_Search .Results .List .Courselist_1 .iconpeople_1 .Union_1 {
+	width: 70.83333333333334%;
+	height: 83.33333333333334%;
+}
+.Search_Search .Results .List .Courselist_1 .Frame17_1 {
+	width: 295.68px;
+	height: 92.16px;
+}
+.Search_Search .Results .List .Courselist_1 .Frame17_1 .Price_1 {
+	width: 100%;
+	height: 100%;
+}
+.Search_Search .Results .List .Courselist_1 .Frame17_1 .Price_1 .__1 {
+	visibility: hidden;
+	width: 14.285714285714285%;
+	height: 100%;
+	font-size: 61.44px;
+	font-weight: 600;
+	line-height: 72px;
+}
+.Search_Search .Results .List .Courselist_1 .Frame17_1 .Price_1 ._90_1 {
+	width: 100%;
+	height: 100%;
+	font-size: 61.44px;
+	font-weight: 600;
+	line-height: 72px;
+}
+.Search_Search .Results .List .Courselist_1 .Frame17_1 .Duration_2 {
+	visibility: hidden;
+	width: 218.88px;
+	height: 62.5%;
+	border-radius: 49.92px;
+}
+.Search_Search .Results .List .Courselist_1 .Frame17_1 .Duration_2 .Duration_3 {
+	width: 157.44px;
+	height: 57.599999999999994px;
+	font-size: 38.4px;
+	font-weight: 400;
+	line-height: 45px;
+}
+.Search_Search .Results .List .Courselist_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 1286.3999999999999px;
+	height: 368.64px;
+}
+.Search_Search .Results .List .Courselist_2 .BG_2 {
+	width: 100%;
+	height: 100%;
+	border-radius: 46.08px;
+}
+.Search_Search .Results .List .Courselist_2 .Image_2 {
+	width: 20.298507462686565%;
+	height: 70.83333333333334%;
+	background: linear-gradient(0deg, rgba(196,196,196,1.00), rgba(196,196,196,1.00));
+	border-radius: 30.72px;
+	background-size: cover;
+}
+.Search_Search .Results .List .Courselist_2 .Name_2 {
+	width: 33.731343283582085%;
+	height: 21.875%;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 63px;
+}
+.Search_Search .Results .List .Courselist_2 .nameenx_2 {
+	width: 22.686567164179106%;
+	height: 18.75%;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 54px;
+}
+.Search_Search .Results .List .Courselist_2 .iconpeople_2 {
+	position: absolute;
+	left: 449.28px;
+	top: 149.76px;
+	width: 3.582089552238806%;
+	height: 12.5%;
+}
+.Search_Search .Results .List .Courselist_2 .iconpeople_2 .Union_2 {
+	width: 70.83333333333334%;
+	height: 83.33333333333334%;
+}
+.Search_Search .Results .List .Courselist_2 .Frame17_2 {
+	width: 295.68px;
+	height: 92.16px;
+}
+.Search_Search .Results .List .Courselist_2 .Frame17_2 .Price_2 {
+	width: 100%;
+	height: 100%;
+}
+.Search_Search .Results .List .Courselist_2 .Frame17_2 .Price_2 .__2 {
+	visibility: hidden;
+	width: 14.285714285714285%;
+	height: 100%;
+	font-size: 61.44px;
+	font-weight: 600;
+	line-height: 72px;
+}
+.Search_Search .Results .List .Courselist_2 .Frame17_2 .Price_2 ._90_2 {
+	width: 100%;
+	height: 100%;
+	font-size: 61.44px;
+	font-weight: 600;
+	line-height: 72px;
+}
+.Search_Search .Results .List .Courselist_2 .Frame17_2 .Duration_4 {
+	visibility: hidden;
+	width: 218.88px;
+	height: 62.5%;
+	border-radius: 49.92px;
+}
+.Search_Search .Results .List .Courselist_2 .Frame17_2 .Duration_4 .Duration_5 {
+	width: 157.44px;
+	height: 57.599999999999994px;
+	font-size: 38.4px;
+	font-weight: 400;
+	line-height: 45px;
+}
+.Search_Search .Results .List .Courselist_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 1286.3999999999999px;
+	height: 368.64px;
+}
+.Search_Search .Results .List .Courselist_3 .BG_3 {
+	width: 100%;
+	height: 100%;
+	border-radius: 46.08px;
+}
+.Search_Search .Results .List .Courselist_3 .Image_3 {
+	width: 20.298507462686565%;
+	height: 70.83333333333334%;
+	background: linear-gradient(0deg, rgba(196,196,196,1.00), rgba(196,196,196,1.00));
+	border-radius: 30.72px;
+	background-size: cover;
+}
+.Search_Search .Results .List .Courselist_3 .Name_3 {
+	width: 35.223880597014926%;
+	height: 21.875%;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 63px;
+}
+.Search_Search .Results .List .Courselist_3 .nameenx_3 {
+	width: 22.686567164179106%;
+	height: 18.75%;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 54px;
+}
+.Search_Search .Results .List .Courselist_3 .iconpeople_3 {
+	position: absolute;
+	left: 449.28px;
+	top: 149.76px;
+	width: 3.582089552238806%;
+	height: 12.5%;
+}
+.Search_Search .Results .List .Courselist_3 .iconpeople_3 .Union_3 {
+	width: 70.83333333333334%;
+	height: 83.33333333333334%;
+}
+.Search_Search .Results .List .Courselist_3 .Frame17_3 {
+	width: 295.68px;
+	height: 92.16px;
+}
+.Search_Search .Results .List .Courselist_3 .Frame17_3 .Price_3 {
+	width: 100%;
+	height: 100%;
+}
+.Search_Search .Results .List .Courselist_3 .Frame17_3 .Price_3 .__3 {
+	visibility: hidden;
+	width: 14.285714285714285%;
+	height: 100%;
+	font-size: 61.44px;
+	font-weight: 600;
+	line-height: 72px;
+}
+.Search_Search .Results .List .Courselist_3 .Frame17_3 .Price_3 ._90_3 {
+	width: 100%;
+	height: 100%;
+	font-size: 61.44px;
+	font-weight: 600;
+	line-height: 72px;
+}
+.Search_Search .Results .List .Courselist_3 .Frame17_3 .Duration_6 {
+	visibility: hidden;
+	width: 218.88px;
+	height: 62.5%;
+	border-radius: 49.92px;
+}
+.Search_Search .Results .List .Courselist_3 .Frame17_3 .Duration_6 .Duration_7 {
+	width: 157.44px;
+	height: 57.599999999999994px;
+	font-size: 38.4px;
+	font-weight: 400;
+	line-height: 45px;
+}
+.Search_Search .Tags {
+	position: absolute;
+	left: 76.8px;
+	top: 675.8399999999999px;
+	width: 1643.52px;
+	height: 115.19999999999999px;
+}
+.Search_Search .Tags .Frame15 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1643.52px;
+	height: 115.19999999999999px;
+	display: flex;
+	box-sizing: border-box;
+}
+.Search_Search .Tags .Frame15 .tagsoff {
+	position: relative;
+	flex: none;
+	margin-right: 46.08px;
+	width: 399.36px;
+	height: 115.19999999999999px;
+}
+.Search_Search .Tags .Frame15 .tagsoff .tagson {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 100%;
+	height: 100%;
+	background: rgba(244,243,253,1.00);
+	border-radius: 30.72px;
+}
+.Search_Search .Tags .Frame15 .tagsoff .tagson .Design {
+	width: 307.2px;
+	height: 53.76px;
+	color: rgba(133,133,151,1.00);
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 55.29600219726562px;
+}
+.Search_Search .Tags .Frame15 .tagsoff_1 {
+	position: relative;
+	flex: none;
+	margin-right: 46.08px;
+	width: 280.32px;
+	height: 115.19999999999999px;
+}
+.Search_Search .Tags .Frame15 .tagsoff_1 .tagson_1 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 100%;
+	height: 100%;
+	background: rgba(244,243,253,1.00);
+	border-radius: 30.72px;
+}
+.Search_Search .Tags .Frame15 .tagsoff_1 .tagson_1 .Design_1 {
+	width: 188.16px;
+	height: 53.76px;
+	color: rgba(133,133,151,1.00);
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 55.29600219726562px;
+}
+.Search_Search .Tags .Frame15 .tagsoff_2 {
+	position: relative;
+	flex: none;
+	margin-right: 46.08px;
+	width: 261.12px;
+	height: 115.19999999999999px;
+}
+.Search_Search .Tags .Frame15 .tagsoff_2 .tagson_2 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 100%;
+	height: 100%;
+	background: rgba(244,243,253,1.00);
+	border-radius: 30.72px;
+}
+.Search_Search .Tags .Frame15 .tagsoff_2 .tagson_2 .Design_2 {
+	width: 168.95999999999998px;
+	height: 53.76px;
+	color: rgba(133,133,151,1.00);
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 55.29600219726562px;
+}
+.Search_Search .Tags .Frame15 .tagsoff_3 {
+	position: relative;
+	flex: none;
+	margin-right: 46.08px;
+	width: 257.28px;
+	height: 115.19999999999999px;
+}
+.Search_Search .Tags .Frame15 .tagsoff_3 .tagson_3 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 100%;
+	height: 100%;
+	background: rgba(244,243,253,1.00);
+	border-radius: 30.72px;
+}
+.Search_Search .Tags .Frame15 .tagsoff_3 .tagson_3 .Design_3 {
+	width: 165.12px;
+	height: 53.76px;
+	color: rgba(133,133,151,1.00);
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 55.29600219726562px;
+}
+.Search_Search .Tags .Frame15 .tagsoff_4 {
+	position: relative;
+	flex: none;
+	margin-right: 46.08px;
+	width: 261.12px;
+	height: 115.19999999999999px;
+}
+.Search_Search .Tags .Frame15 .tagsoff_4 .tagson_4 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 100%;
+	height: 100%;
+	background: rgba(244,243,253,1.00);
+	border-radius: 30.72px;
+}
+.Search_Search .Tags .Frame15 .tagsoff_4 .tagson_4 .Design_4 {
+	width: 168.95999999999998px;
+	height: 53.76px;
+	color: rgba(133,133,151,1.00);
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 55.29600219726562px;
+}
+.Search_Search .SearchBar {
+	position: absolute;
+	left: 76.8px;
+	top: 430.08px;
+	width: 1286.3999999999999px;
+	height: 184.32px;
+	border-radius: 46.08px;
+}
+.Search_Search .SearchBar .Search_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1286.3999999999999px;
+	height: 184.32px;
+	background: rgba(244,243,253,1.00);
+	border-radius: 46.08px;
+}
+.Search_Search .SearchBar .Search_1 .FindCousre {
+	width: 345.59999999999997px;
+	height: 76.8px;
+	color: rgba(31,31,57,1.00);
+	font-size: 53.76px;
+	font-weight: 400;
+	line-height: 76.8px;
+}
+.Search_Search .SearchBar .Search_1 .iconsearch {
+	position: absolute;
+	left: 61.44px;
+	top: 61.44px;
+	width: 61.44px;
+	height: 61.44px;
+}
+.Search_Search .SearchBar .Search_1 .iconsearch .VectorStroke {
+	width: 86.8896484375%;
+	height: 86.88974380493164%;
+}
+.Search_Search .SearchBar .Search_1 .icondeletetwo {
+	position: absolute;
+	right: 61.44px;
+	top: 46.08px;
+	width: 92.16px;
+	height: 92.16px;
+}
+.Search_Search .SearchBar .Search_1 .icondeletetwo .Subtract {
+	width: 61.44px;
+	height: 61.44px;
+}
+.Search_Search .SearchBar .Search_1 .icondeletetwo_1 {
+	visibility: hidden;
+	position: absolute;
+	right: 215.04px;
+	top: 46.08px;
+	width: 92.16px;
+	height: 92.16px;
+}
+.Search_Search .SearchBar .Search_1 .icondeletetwo_1 .Subtract_1 {
+	width: 61.44px;
+	height: 61.44px;
+}
+.Search_Search .Status {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.Search_Search .Status .statuslight {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.Search_Search .Status .statuslight .Notch {
+	width: 1440px;
+	height: 115.19999999999999px;
+}
+.Search_Search .Status .statuslight .Notch .Subtract_2 {
+	visibility: hidden;
+	width: 168.95999999999998px;
+	height: 115.19999999999999px;
+}
+.Search_Search .Status .statuslight .Notch .Rectangle11 {
+	visibility: hidden;
+	width: 510.71999999999997px;
+	height: 100%;
+}
+.Search_Search .Status .statuslight .Notch .Subtract_3 {
+	visibility: hidden;
+	width: 168.95999999999998px;
+	height: 115.19999999999999px;
+}
+.Search_Search .Status .statuslight .StatusIcons {
+	width: 264.96px;
+	height: 53.76px;
+}
+.Search_Search .Status .statuslight .StatusIcons .NetworkSignalLight {
+	width: 76.8px;
+	height: 53.76px;
+}
+.Search_Search .Status .statuslight .StatusIcons .NetworkSignalLight .Path {
+	width: 15%;
+	height: 57.14285714285714%;
+}
+.Search_Search .Status .statuslight .StatusIcons .NetworkSignalLight .Path_1 {
+	width: 15%;
+	height: 42.857142857142854%;
+}
+.Search_Search .Status .statuslight .StatusIcons .NetworkSignalLight .Path_2 {
+	width: 15%;
+	height: 32.142857142857146%;
+}
+.Search_Search .Status .statuslight .StatusIcons .NetworkSignalLight .EmptyBar {
+	width: 15%;
+	height: 71.42857142857143%;
+}
+.Search_Search .Status .statuslight .StatusIcons .NetworkSignalLight .Path_3 {
+	width: 15%;
+	height: 57.14285714285714%;
+}
+.Search_Search .Status .statuslight .StatusIcons .NetworkSignalLight .Path_4 {
+	width: 15%;
+	height: 42.857142857142854%;
+}
+.Search_Search .Status .statuslight .StatusIcons .NetworkSignalLight .Path_5 {
+	width: 15%;
+	height: 32.142857142857146%;
+}
+.Search_Search .Status .statuslight .StatusIcons .NetworkSignalLight .EmptyBar_1 {
+	visibility: hidden;
+	width: 15%;
+	height: 71.42857142857143%;
+}
+.Search_Search .Status .statuslight .StatusIcons .WiFiSignalLight {
+	width: 61.44px;
+	height: 53.76px;
+}
+.Search_Search .Status .statuslight .StatusIcons .WiFiSignalLight .Path_6 {
+	width: 27.32391357421875%;
+	height: 21.86006818498884%;
+}
+.Search_Search .Status .statuslight .StatusIcons .WiFiSignalLight .Path_7 {
+	width: 58.2489013671875%;
+	height: 23.673139299665177%;
+}
+.Search_Search .Status .statuslight .StatusIcons .WiFiSignalLight .Path_8 {
+	width: 89.0625%;
+	height: 30.875723702566965%;
+}
+.Search_Search .Status .statuslight .StatusIcons .BatteryLight {
+	width: 96px;
+	height: 53.76px;
+}
+.Search_Search .Status .statuslight .StatusIcons .BatteryLight .__4 {
+	visibility: hidden;
+	width: 30.72px;
+	height: 46.08px;
+}
+.Search_Search .Status .statuslight .StatusIcons .BatteryLight .Subtract_4 {
+	visibility: hidden;
+	width: 88.32px;
+	height: 46.08px;
+}
+.Search_Search .Status .statuslight .StatusIcons .BatteryLight .Rectangle23 {
+	width: 3.84px;
+	height: 15.36px;
+}
+.Search_Search .Status .statuslight .StatusIcons .BatteryLight .Battery {
+	visibility: hidden;
+	width: 72.9609375px;
+	height: 30.72px;
+}
+.Search_Search .Status .statuslight .StatusIcons .BatteryLight .Battery ._100 {
+	width: 72.9609375px;
+	height: 30.72px;
+}
+.Search_Search .Status .statuslight .StatusIcons .BatteryLight .Battery ._50 {
+	visibility: hidden;
+	width: 32.4515625px;
+	height: 30.72px;
+}
+.Search_Search .Status .statuslight .StatusIcons .BatteryLight .Battery ._10 {
+	visibility: hidden;
+	width: 11.52px;
+	height: 30.72px;
+}
+.Search_Search .Status .statuslight .StatusIcons .BatteryLight .Rectangle21Stroke {
+	width: 88.32px;
+	height: 46.08px;
+}
+.Search_Search .Status .statuslight .StatusIcons .BatteryLight .Rectangle20 {
+	width: 72.96px;
+	height: 30.72px;
+	background: rgba(31,31,57,1.00);
+	border-radius: 3.84px;
+}
+.Search_Search .Status .statuslight .Indicator {
+	width: 23.04px;
+	height: 23.04px;
+}
+.Search_Search .Status .statuslight .Indicator .Indicator_1 {
+	visibility: hidden;
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+}
+.Search_Search .Status .statuslight .TimeLight {
+	width: 207.35999999999999px;
+	height: 80.64px;
+	border-radius: 76.8px;
+}
+.Search_Search .Status .statuslight .TimeLight ._941 {
+	width: 126.72px;
+	height: 57.599999999999994px;
+}
+.Search_Search .Status .statuslight .TimeLight ._941 ._941_1 {
+	width: 109.156875px;
+	height: 42.58125px;
+}
+.Search_Search .navi {
+	position: absolute;
+	left: 0px;
+	top: 168.95999999999998px;
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.Search_Search .navi .navigationbarlight {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.Search_Search .navi .navigationbarlight .bg {
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.Search_Search .navi .navigationbarlight .iconarrowleft {
+	position: absolute;
+	left: 61.44px;
+	top: 38.4px;
+	width: 92.16px;
+	height: 92.16px;
+}
+.Search_Search .navi .navigationbarlight .iconarrowleft .VectorStroke_1 {
+	visibility: hidden;
+	width: 91.6656494140625%;
+	height: 83.33333333333334%;
+}
+.Search_Search .navi .navigationbarlight .iconarrowleft .Vector3 {
+	width: 29.999796549479168%;
+	height: 59.9999745686849%;
+}
+.Search_Search .navi .navigationbarlight .Title_1 {
+	visibility: hidden;
+	width: 245.76px;
+	height: 84.47999999999999px;
+	font-size: 69.12px;
+	font-weight: 500;
+	line-height: 82.94400146484375px;
+}

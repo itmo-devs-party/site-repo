@@ -1,0 +1,267 @@
+
+.statusdark_statusdark {
+	width: 375px;
+	height: 44px;
+}
+.statusdark_statusdark .statusdark_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.statusdark_statusdark .statusdark_1 .Notch {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	top: 0px;
+	width: 375px;
+	height: 30px;
+}
+.statusdark_statusdark .statusdark_1 .Notch .Subtract {
+	visibility: hidden;
+	position: absolute;
+	left: 77px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 44px;
+	height: 30px;
+}
+.statusdark_statusdark .statusdark_1 .Notch .Rectangle11 {
+	visibility: hidden;
+	position: absolute;
+	margin-left: 121px;
+	margin-right: 121px;
+	top: 0px;
+	width: 133px;
+	height: 100%;
+	background: rgba(0,0,0,1.00);
+}
+.statusdark_statusdark .statusdark_1 .Notch .Subtract_1 {
+	visibility: hidden;
+	position: absolute;
+	right: 77px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 44px;
+	height: 30px;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons {
+	position: absolute;
+	right: 14px;
+	top: 16px;
+	width: 69px;
+	height: 14px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .NetworkSignalDark {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 20px;
+	height: 14px;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .NetworkSignalDark .Path {
+	position: absolute;
+	left: 11px;
+	top: 4px;
+	width: 15%;
+	height: 57.14285714285714%;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .NetworkSignalDark .Path_1 {
+	position: absolute;
+	left: 6.5px;
+	top: 6px;
+	width: 15%;
+	height: 42.857142857142854%;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .NetworkSignalDark .Path_2 {
+	position: absolute;
+	left: 2px;
+	top: 7.5px;
+	width: 15%;
+	height: 32.142857142857146%;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .NetworkSignalDark .EmptyBar {
+	position: absolute;
+	left: 15.5px;
+	top: 2px;
+	width: 15%;
+	height: 71.42857142857143%;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .NetworkSignalDark .Path_3 {
+	position: absolute;
+	left: 11px;
+	top: 4px;
+	width: 15%;
+	height: 57.14285714285714%;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .NetworkSignalDark .Path_4 {
+	position: absolute;
+	left: 6.5px;
+	top: 6px;
+	width: 15%;
+	height: 42.857142857142854%;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .NetworkSignalDark .Path_5 {
+	position: absolute;
+	left: 2px;
+	top: 7.5px;
+	width: 15%;
+	height: 32.142857142857146%;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .NetworkSignalDark .EmptyBar_1 {
+	visibility: hidden;
+	position: absolute;
+	left: 15.5px;
+	top: 2px;
+	width: 15%;
+	height: 71.42857142857143%;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .WiFiSignalDark {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 16px;
+	height: 14px;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .WiFiSignalDark .Path_6 {
+	position: absolute;
+	left: 5.938232421875px;
+	top: 8.9395751953125px;
+	width: 27.32391357421875%;
+	height: 21.860177176339285%;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .WiFiSignalDark .Path_7 {
+	position: absolute;
+	left: 3.46484375px;
+	top: 5.4698486328125px;
+	width: 58.2489013671875%;
+	height: 23.672921316964285%;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .WiFiSignalDark .Path_8 {
+	position: absolute;
+	left: 1px;
+	top: 2px;
+	width: 89.0625%;
+	height: 30.875941685267854%;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .BatteryDark {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 25px;
+	height: 12px;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .BatteryDark ._ {
+	visibility: hidden;
+	position: absolute;
+	left: 8px;
+	top: 0px;
+	width: 8px;
+	height: 12px;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .BatteryDark .Subtract_2 {
+	visibility: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 23px;
+	height: 12px;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .BatteryDark .Rectangle23 {
+	position: absolute;
+	left: 24px;
+	top: 4px;
+	width: 1px;
+	height: 4px;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .BatteryDark .Battery {
+	visibility: hidden;
+	position: absolute;
+	left: 2px;
+	top: 2px;
+	width: 0px;
+	height: 0px;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .BatteryDark .Battery ._100 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 19.000244140625px;
+	height: 8px;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .BatteryDark .Battery ._50 {
+	visibility: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 8.450927734375px;
+	height: 8px;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .BatteryDark .Battery ._10 {
+	visibility: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 3px;
+	height: 8px;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .BatteryDark .Rectangle21Stroke {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 23px;
+	height: 12px;
+}
+.statusdark_statusdark .statusdark_1 .StatusIcons .BatteryDark .Rectangle20 {
+	position: absolute;
+	left: 2px;
+	top: 50%;
+	transform: translate(0, -50%);
+	width: 19px;
+	height: 8px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 1px;
+}
+.statusdark_statusdark .statusdark_1 .Indicator {
+	position: absolute;
+	right: 71px;
+	top: 8px;
+	width: 6px;
+	height: 6px;
+}
+.statusdark_statusdark .statusdark_1 .Indicator .Indicator_1 {
+	visibility: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(52,199,89,1.00);
+	border-radius: 50%;
+}
+.statusdark_statusdark .statusdark_1 .TimeDark {
+	position: absolute;
+	left: 21px;
+	top: 12px;
+	width: 54px;
+	height: 21px;
+	border-radius: 20px;
+}
+.statusdark_statusdark .statusdark_1 .TimeDark ._941 {
+	position: absolute;
+	left: 50.92592592592593%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 33px;
+	height: 15px;
+}
+.statusdark_statusdark .statusdark_1 .TimeDark ._941 ._941_1 {
+	position: absolute;
+	left: 49.130526455965914%;
+	top: 50.29622395833333%;
+	transform: translate(-50%, -50%);
+	width: 28.4261474609375px;
+	height: 11.0888671875px;
+}

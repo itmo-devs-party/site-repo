@@ -1,0 +1,603 @@
+
+.Mycourse_Mycourse {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+	border-radius: 69.12px;
+}
+.Mycourse_Mycourse .Learning {
+	position: absolute;
+	left: 80.64px;
+	top: 829.4399999999999px;
+	width: 1282.56px;
+	height: 1464.4809375px;
+}
+.Mycourse_Mycourse .Learning .Learning_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 614.4px;
+	height: 701.520703125px;
+}
+.Mycourse_Mycourse .Learning .Learning_1 .Rectangle34 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 614.4px;
+	height: 701.520703125px;
+	background: rgba(255,231,238,1.00);
+	border-radius: 46.08px;
+}
+.Mycourse_Mycourse .Learning .Learning_1 .ProductDesignv10 {
+	position: absolute;
+	left: 72.96px;
+	top: 92.16px;
+	width: 468.47999999999996px;
+	height: 184.32px;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 61.44px;
+	font-weight: 800;
+	line-height: 72px;
+}
+.Mycourse_Mycourse .Learning .Learning_1 .Group126 {
+	position: absolute;
+	left: 72.96px;
+	top: 366.55125px;
+	width: 468.47999999999996px;
+	height: 23.04px;
+}
+.Mycourse_Mycourse .Learning .Learning_1 .Group126 .Rectangle72 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 468.47999999999996px;
+	height: 23.04px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 122.88px;
+}
+.Mycourse_Mycourse .Learning .Learning_1 .Group126 .Rectangle73 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 310.5px;
+	height: 23.04px;
+}
+.Mycourse_Mycourse .Learning .Learning_1 .Completed {
+	position: absolute;
+	left: 72.96px;
+	top: 418.56px;
+	width: 261.12px;
+	height: 69.12px;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 54px;
+}
+.Mycourse_Mycourse .Learning .Learning_1 ._1424 {
+	position: absolute;
+	left: 72.96px;
+	top: 516.64875px;
+	width: 161.28px;
+	height: 115.19999999999999px;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 76.8px;
+	font-weight: 600;
+	line-height: 90px;
+}
+.Mycourse_Mycourse .Learning .Learning_1 .buttonplay {
+	position: absolute;
+	left: 403.2px;
+	top: 489.76874999999995px;
+	width: 27.500000000000004%;
+	height: 24.084820198085296%;
+}
+.Mycourse_Mycourse .Learning .Learning_1 .buttonplay .Ellipse23 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 168.95999999999998px;
+	height: 168.95999999999998px;
+	background: rgba(236,123,156,1.00);
+	border-radius: 50%;
+}
+.Mycourse_Mycourse .Learning .Learning_1 .buttonplay .Polygon1 {
+	position: absolute;
+	left: 46.08px;
+	top: 46.08px;
+	width: 76.8px;
+	height: 76.8px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 7.68px;
+}
+.Mycourse_Mycourse .Learning .Learning_2 {
+	position: absolute;
+	left: 0px;
+	top: 762.9599999999999px;
+	width: 614.4px;
+	height: 701.5209375px;
+}
+.Mycourse_Mycourse .Learning .Learning_2 .Rectangle34_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 614.4px;
+	height: 701.5209375px;
+	background: rgba(186,224,219,1.00);
+	border-radius: 46.08px;
+}
+.Mycourse_Mycourse .Learning .Learning_2 .VisualDesign {
+	position: absolute;
+	left: 72.96px;
+	top: 92.16px;
+	width: 468.47999999999996px;
+	height: 92.16px;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 61.44px;
+	font-weight: 800;
+	line-height: 72px;
+}
+.Mycourse_Mycourse .Learning .Learning_2 .Group126_1 {
+	position: absolute;
+	left: 72.96px;
+	top: 366.55125px;
+	width: 468.47999999999996px;
+	height: 23.04px;
+}
+.Mycourse_Mycourse .Learning .Learning_2 .Group126_1 .Rectangle72_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 468.47999999999996px;
+	height: 23.04px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 122.88px;
+}
+.Mycourse_Mycourse .Learning .Learning_2 .Group126_1 .Rectangle73_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 310.5px;
+	height: 23.04px;
+}
+.Mycourse_Mycourse .Learning .Learning_2 .Completed_1 {
+	position: absolute;
+	left: 72.96px;
+	top: 418.56px;
+	width: 261.12px;
+	height: 69.12px;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 54px;
+}
+.Mycourse_Mycourse .Learning .Learning_2 ._1016 {
+	position: absolute;
+	left: 72.96px;
+	top: 516.64875px;
+	width: 149.76px;
+	height: 115.19999999999999px;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 76.8px;
+	font-weight: 600;
+	line-height: 90px;
+}
+.Mycourse_Mycourse .Learning .Learning_2 .buttonplay_1 {
+	position: absolute;
+	left: 403.2px;
+	top: 489.76874999999995px;
+	width: 27.500000000000004%;
+	height: 24.08481215145485%;
+}
+.Mycourse_Mycourse .Learning .Learning_2 .buttonplay_1 .Ellipse23_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 168.95999999999998px;
+	height: 168.95999999999998px;
+	background: rgba(57,138,128,1.00);
+	border-radius: 50%;
+}
+.Mycourse_Mycourse .Learning .Learning_2 .buttonplay_1 .Polygon1_1 {
+	position: absolute;
+	left: 46.08px;
+	top: 46.08px;
+	width: 76.8px;
+	height: 76.8px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 7.68px;
+}
+.Mycourse_Mycourse .Learning .Learning_3 {
+	position: absolute;
+	left: 668.16px;
+	top: 0px;
+	width: 614.4px;
+	height: 701.520703125px;
+}
+.Mycourse_Mycourse .Learning .Learning_3 .Rectangle34_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 614.4px;
+	height: 701.520703125px;
+	background: rgba(186,214,255,1.00);
+	border-radius: 46.08px;
+}
+.Mycourse_Mycourse .Learning .Learning_3 .JavaDevelopment {
+	position: absolute;
+	left: 72.96px;
+	top: 92.16px;
+	width: 468.47999999999996px;
+	height: 184.32px;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 61.44px;
+	font-weight: 800;
+	line-height: 72px;
+}
+.Mycourse_Mycourse .Learning .Learning_3 .Line {
+	position: absolute;
+	left: 72.96px;
+	top: 366.55125px;
+	width: 468.47999999999996px;
+	height: 23.04px;
+}
+.Mycourse_Mycourse .Learning .Learning_3 .Line .Rectangle72_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 468.47999999999996px;
+	height: 23.04px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 122.88px;
+}
+.Mycourse_Mycourse .Learning .Learning_3 .Line .Rectangle73_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 310.5px;
+	height: 23.04px;
+}
+.Mycourse_Mycourse .Learning .Learning_3 .Completed_2 {
+	position: absolute;
+	left: 72.96px;
+	top: 418.56px;
+	width: 261.12px;
+	height: 69.12px;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 54px;
+}
+.Mycourse_Mycourse .Learning .Learning_3 ._1218 {
+	position: absolute;
+	left: 72.96px;
+	top: 516.64875px;
+	width: 142.07999999999998px;
+	height: 115.19999999999999px;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 76.8px;
+	font-weight: 600;
+	line-height: 90px;
+}
+.Mycourse_Mycourse .Learning .Learning_3 .buttonplay_2 {
+	position: absolute;
+	left: 403.2px;
+	top: 489.76874999999995px;
+	width: 27.500000000000004%;
+	height: 24.084820198085296%;
+}
+.Mycourse_Mycourse .Learning .Learning_3 .buttonplay_2 .Ellipse23_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 168.95999999999998px;
+	height: 168.95999999999998px;
+	background: rgba(61,92,255,1.00);
+	border-radius: 50%;
+}
+.Mycourse_Mycourse .Learning .Learning_3 .buttonplay_2 .Polygon1_2 {
+	position: absolute;
+	left: 46.08px;
+	top: 46.08px;
+	width: 76.8px;
+	height: 76.8px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 7.68px;
+}
+.Mycourse_Mycourse .Learnedtoday {
+	position: absolute;
+	left: 76.8px;
+	top: 384px;
+	width: 1286.3999999999999px;
+	height: 368.64px;
+}
+.Mycourse_Mycourse .Learnedtoday .BG {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1286.3999999999999px;
+	height: 368.64px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 46.08px;
+}
+.Mycourse_Mycourse .Learnedtoday .Learnedtoday_1 {
+	position: absolute;
+	left: 61.44px;
+	top: 61.44px;
+	width: 334.08px;
+	height: 76.8px;
+	color: rgba(133,133,151,1.00);
+	font-family: Poppins;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 76.8px;
+}
+.Mycourse_Mycourse .Learnedtoday .Time {
+	position: absolute;
+	left: 61.44px;
+	top: 153.6px;
+	width: 422.4px;
+	height: 88.32px;
+}
+.Mycourse_Mycourse .Learnedtoday .Time ._46min {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 253.44px;
+	height: 76.8px;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 76.8px;
+	font-weight: 600;
+	line-height: 76.8px;
+}
+.Mycourse_Mycourse .Learnedtoday .Time ._60min {
+	position: absolute;
+	left: 268.8px;
+	top: 11.52px;
+	width: 153.6px;
+	height: 76.8px;
+	color: rgba(133,133,151,1.00);
+	font-family: Poppins;
+	font-size: 38.4px;
+	font-weight: 400;
+	line-height: 76.8px;
+}
+.Mycourse_Mycourse .Learnedtoday .Line_1 {
+	position: absolute;
+	left: 61.44px;
+	top: 280.32px;
+	width: 1163.52px;
+	height: 23.04px;
+}
+.Mycourse_Mycourse .Learnedtoday .Line_1 .Rectangle30 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1163.52px;
+	height: 23.04px;
+	background: rgba(244,243,253,1.00);
+	border-radius: 84.47999999999999px;
+}
+.Mycourse_Mycourse .Learnedtoday .Line_1 .Rectangle30_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 806.4px;
+	height: 23.04px;
+}
+.Mycourse_Mycourse .Status {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.Mycourse_Mycourse .Status .statuslight {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.Mycourse_Mycourse .Status .statuslight .Notch {
+	width: 1440px;
+	height: 115.19999999999999px;
+}
+.Mycourse_Mycourse .Status .statuslight .Notch .Subtract {
+	visibility: hidden;
+	width: 168.95999999999998px;
+	height: 115.19999999999999px;
+}
+.Mycourse_Mycourse .Status .statuslight .Notch .Rectangle11 {
+	visibility: hidden;
+	width: 510.71999999999997px;
+	height: 100%;
+}
+.Mycourse_Mycourse .Status .statuslight .Notch .Subtract_1 {
+	visibility: hidden;
+	width: 168.95999999999998px;
+	height: 115.19999999999999px;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons {
+	width: 264.96px;
+	height: 53.76px;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .NetworkSignalLight {
+	width: 76.8px;
+	height: 53.76px;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .NetworkSignalLight .Path {
+	width: 15%;
+	height: 57.14285714285714%;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .NetworkSignalLight .Path_1 {
+	width: 15%;
+	height: 42.857142857142854%;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .NetworkSignalLight .Path_2 {
+	width: 15%;
+	height: 32.142857142857146%;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .NetworkSignalLight .EmptyBar {
+	width: 15%;
+	height: 71.42857142857143%;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .NetworkSignalLight .Path_3 {
+	width: 15%;
+	height: 57.14285714285714%;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .NetworkSignalLight .Path_4 {
+	width: 15%;
+	height: 42.857142857142854%;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .NetworkSignalLight .Path_5 {
+	width: 15%;
+	height: 32.142857142857146%;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .NetworkSignalLight .EmptyBar_1 {
+	visibility: hidden;
+	width: 15%;
+	height: 71.42857142857143%;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .WiFiSignalLight {
+	width: 61.44px;
+	height: 53.76px;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .WiFiSignalLight .Path_6 {
+	width: 27.32391357421875%;
+	height: 21.860177176339285%;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .WiFiSignalLight .Path_7 {
+	width: 58.2489013671875%;
+	height: 23.673357282366073%;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .WiFiSignalLight .Path_8 {
+	width: 89.0625%;
+	height: 30.87550571986607%;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .BatteryLight {
+	width: 96px;
+	height: 53.76px;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .BatteryLight ._ {
+	visibility: hidden;
+	width: 30.72px;
+	height: 46.08px;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .BatteryLight .Subtract_2 {
+	visibility: hidden;
+	width: 88.32px;
+	height: 46.08px;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .BatteryLight .Rectangle23 {
+	width: 3.84px;
+	height: 15.36px;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .BatteryLight .Battery {
+	visibility: hidden;
+	width: 72.9609375px;
+	height: 30.72px;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .BatteryLight .Battery ._100 {
+	width: 72.9609375px;
+	height: 30.72px;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .BatteryLight .Battery ._50 {
+	visibility: hidden;
+	width: 32.4515625px;
+	height: 30.72px;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .BatteryLight .Battery ._10 {
+	visibility: hidden;
+	width: 11.52px;
+	height: 30.72px;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .BatteryLight .Rectangle21Stroke {
+	width: 88.32px;
+	height: 46.08px;
+}
+.Mycourse_Mycourse .Status .statuslight .StatusIcons .BatteryLight .Rectangle20 {
+	width: 72.96px;
+	height: 30.72px;
+	background: rgba(31,31,57,1.00);
+	border-radius: 3.84px;
+}
+.Mycourse_Mycourse .Status .statuslight .Indicator {
+	width: 23.04px;
+	height: 23.04px;
+}
+.Mycourse_Mycourse .Status .statuslight .Indicator .Indicator_1 {
+	visibility: hidden;
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+}
+.Mycourse_Mycourse .Status .statuslight .TimeLight {
+	width: 207.35999999999999px;
+	height: 80.64px;
+	border-radius: 76.8px;
+}
+.Mycourse_Mycourse .Status .statuslight .TimeLight ._941 {
+	width: 126.72px;
+	height: 57.599999999999994px;
+}
+.Mycourse_Mycourse .Status .statuslight .TimeLight ._941 ._941_1 {
+	width: 109.156875px;
+	height: 42.58125px;
+}
+.Mycourse_Mycourse .navi {
+	position: absolute;
+	left: 0px;
+	top: 168.95999999999998px;
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.Mycourse_Mycourse .navi .navigationbarlight {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.Mycourse_Mycourse .navi .navigationbarlight .bg {
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.Mycourse_Mycourse .navi .navigationbarlight .iconarrowleft {
+	position: absolute;
+	left: 61.44px;
+	top: 38.4px;
+	width: 92.16px;
+	height: 92.16px;
+}
+.Mycourse_Mycourse .navi .navigationbarlight .iconarrowleft .VectorStroke {
+	visibility: hidden;
+	width: 91.6656494140625%;
+	height: 83.33333333333334%;
+}
+.Mycourse_Mycourse .navi .navigationbarlight .iconarrowleft .Vector3 {
+	width: 29.999796549479168%;
+	height: 60.000101725260414%;
+}
+.Mycourse_Mycourse .navi .navigationbarlight .Title {
+	width: 395.52px;
+	height: 84.47999999999999px;
+	font-size: 69.12px;
+	font-weight: 500;
+	line-height: 82.94400146484375px;
+}

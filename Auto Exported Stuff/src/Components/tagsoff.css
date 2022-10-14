@@ -1,0 +1,19 @@
+
+.tagsoff_tagsoff {
+	width: 104px;
+	height: 30px;
+	display: flex;
+	box-sizing: border-box;
+}
+.tagsoff_tagsoff .tagson {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 100%;
+	background: rgba(244,243,253,1.00);
+}
+.tagsoff_tagsoff .tagson .Design {
+	width: 80px;
+	color: rgba(133,133,151,1.00);
+	font-weight: 400;
+}

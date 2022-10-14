@@ -1,0 +1,136 @@
+
+.Footerhome_Footerhome {
+	width: 375px;
+	height: 111px;
+}
+.Footerhome_Footerhome .Union {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Footerhome_Footerhome .Search {
+	position: absolute;
+	left: 161px;
+	top: 6px;
+	width: 13.866666666666665%;
+	height: 61.261261261261254%;
+}
+.Footerhome_Footerhome .Search .Scan {
+	position: absolute;
+	left: 12px;
+	top: 54px;
+	width: 53.84615384615385%;
+	height: 20.588235294117645%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(184,184,210,1.00);
+	font-family: Poppins;
+	font-size: 11px;
+	font-weight: 500;
+	line-height: 14px;
+}
+.Footerhome_Footerhome .Search .Ellipse18 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 76.47058823529412%;
+	background: rgba(61,92,255,1.00);
+	border-radius: 50%;
+}
+.Footerhome_Footerhome .Search .iconsearch {
+	position: absolute;
+	left: 16px;
+	top: 16px;
+	width: 38.46153846153847%;
+	height: 29.411764705882355%;
+}
+.Footerhome_Footerhome .Search .iconsearch .VectorStroke {
+	width: 86.8896484375%;
+	height: 86.8896484375%;
+}
+.Footerhome_Footerhome .Footeron {
+	position: absolute;
+	left: 31px;
+	top: 15px;
+}
+.Footerhome_Footerhome .Footeron .Rectangle19 {
+}
+.Footerhome_Footerhome .Footeron .Home {
+	font-weight: 500;
+}
+.Footerhome_Footerhome .Footeron .iconfooterhomeon {
+	position: absolute;
+	left: 4px;
+	top: 14px;
+}
+.Footerhome_Footerhome .Footeron .iconfooterhomeon .Frame28 {
+	height: 21.519287109375px;
+}
+.Footerhome_Footerhome .Footeron .iconfooterhomeon .home_1_fill {
+}
+.Footerhome_Footerhome .Footeroff {
+	position: absolute;
+	left: 96px;
+	top: 15px;
+}
+.Footerhome_Footerhome .Footeroff .Rectangle19_1 {
+	visibility: hidden;
+}
+.Footerhome_Footerhome .Footeroff .Home_1 {
+	width: 154.54545454545453%;
+	font-weight: 500;
+}
+.Footerhome_Footerhome .Footeroff .iconfootercourseoff {
+	position: absolute;
+	left: 4px;
+	top: 14px;
+}
+.Footerhome_Footerhome .Footeroff .iconfootercourseoff .Subtract {
+}
+.Footerhome_Footerhome .Footeroff_1 {
+	position: absolute;
+	left: 245px;
+	top: 15px;
+}
+.Footerhome_Footerhome .Footeroff_1 .Rectangle19_2 {
+	visibility: hidden;
+}
+.Footerhome_Footerhome .Footeroff_1 .Home_2 {
+	width: 75.75757575757575%;
+	font-weight: 500;
+}
+.Footerhome_Footerhome .Footeroff_1 .iconfooternotificationoff {
+	position: absolute;
+	left: 4px;
+	top: 14px;
+}
+.Footerhome_Footerhome .Footeroff_1 .iconfooternotificationoff .Vector {
+}
+.Footerhome_Footerhome .Footeroff_1 .iconfooternotificationoff .message_1_fill {
+	height: 74.7894287109375%;
+}
+.Footerhome_Footerhome .Footeroff_2 {
+	position: absolute;
+	left: 310px;
+	top: 15px;
+}
+.Footerhome_Footerhome .Footeroff_2 .Rectangle19_3 {
+	visibility: hidden;
+}
+.Footerhome_Footerhome .Footeroff_2 .Home_3 {
+	width: 115.15151515151516%;
+	font-weight: 500;
+}
+.Footerhome_Footerhome .Footeroff_2 .iconfooteraccountoff {
+	position: absolute;
+	left: 4px;
+	top: 14px;
+}
+.Footerhome_Footerhome .Footeroff_2 .iconfooteraccountoff .Vector_1 {
+}
+.Footerhome_Footerhome .Footeroff_2 .iconfooteraccountoff .user_2_fill {
+}

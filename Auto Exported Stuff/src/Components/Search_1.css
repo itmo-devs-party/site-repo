@@ -1,0 +1,44 @@
+
+.Search_1_Search {
+	width: 335px;
+	height: 48px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 12px;
+}
+.Search_1_Search .FindCousre {
+	position: absolute;
+	left: 44px;
+	top: 14px;
+	width: 83px;
+	height: 20px;
+	color: rgba(184,184,210,1.00);
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Search_1_Search .iconsearch {
+	position: absolute;
+	left: 16px;
+	top: 16px;
+	width: 16px;
+	height: 16px;
+}
+.Search_1_Search .iconsearch .VectorStroke {
+	width: 86.8896484375%;
+	height: 86.8896484375%;
+}
+.Search_1_Search .iconfilter {
+	position: absolute;
+	right: 16px;
+	top: 12px;
+}
+.Search_1_Search .iconfilter .VectorStroke_1 {
+}
+.Search_1_Search .icondeletetwo {
+	position: absolute;
+	right: 56px;
+	top: 12px;
+}
+.Search_1_Search .icondeletetwo .Subtract {
+}

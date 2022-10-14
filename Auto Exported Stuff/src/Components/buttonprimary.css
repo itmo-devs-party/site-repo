@@ -1,0 +1,37 @@
+
+.buttonprimary_buttonprimary {
+	width: 327px;
+	height: 50px;
+	background: rgba(61,92,255,1.00);
+	border-radius: 12px;
+}
+.buttonprimary_buttonprimary .Frame10 {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 73px;
+	height: 44px;
+	display: flex;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.buttonprimary_buttonprimary .Frame10 .Button {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 18.75px;
+}

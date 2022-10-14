@@ -1,0 +1,40 @@
+
+.Title_Title {
+	width: 375px;
+	height: 48px;
+}
+.Title_Title .Rectangle26 {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	top: 0px;
+	width: 375px;
+	height: 48px;
+	background: rgba(255,255,255,1.00);
+}
+.Title_Title .Popularcourse {
+	position: absolute;
+	left: 20px;
+	top: 14px;
+	width: 137px;
+	height: 20px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 20px;
+}
+.Title_Title .Seeall {
+	position: absolute;
+	right: 20px;
+	top: 14px;
+	width: 46px;
+	height: 20px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+}

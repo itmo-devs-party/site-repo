@@ -1,0 +1,1281 @@
+
+.People_People {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+	border-radius: 69.12px;
+}
+.People_People .Status {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.People_People .Status .statuslight {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.People_People .Status .statuslight .Notch {
+	width: 1440px;
+	height: 115.19999999999999px;
+}
+.People_People .Status .statuslight .Notch .Subtract {
+	visibility: hidden;
+	width: 168.95999999999998px;
+	height: 115.19999999999999px;
+}
+.People_People .Status .statuslight .Notch .Rectangle11 {
+	visibility: hidden;
+	width: 510.71999999999997px;
+	height: 100%;
+}
+.People_People .Status .statuslight .Notch .Subtract_1 {
+	visibility: hidden;
+	width: 168.95999999999998px;
+	height: 115.19999999999999px;
+}
+.People_People .Status .statuslight .StatusIcons {
+	width: 264.96px;
+	height: 53.76px;
+}
+.People_People .Status .statuslight .StatusIcons .NetworkSignalLight {
+	width: 76.8px;
+	height: 53.76px;
+}
+.People_People .Status .statuslight .StatusIcons .NetworkSignalLight .Path {
+	width: 15%;
+	height: 57.14285714285714%;
+}
+.People_People .Status .statuslight .StatusIcons .NetworkSignalLight .Path_1 {
+	width: 15%;
+	height: 42.857142857142854%;
+}
+.People_People .Status .statuslight .StatusIcons .NetworkSignalLight .Path_2 {
+	width: 15%;
+	height: 32.142857142857146%;
+}
+.People_People .Status .statuslight .StatusIcons .NetworkSignalLight .EmptyBar {
+	width: 15%;
+	height: 71.42857142857143%;
+}
+.People_People .Status .statuslight .StatusIcons .NetworkSignalLight .Path_3 {
+	width: 15%;
+	height: 57.14285714285714%;
+}
+.People_People .Status .statuslight .StatusIcons .NetworkSignalLight .Path_4 {
+	width: 15%;
+	height: 42.857142857142854%;
+}
+.People_People .Status .statuslight .StatusIcons .NetworkSignalLight .Path_5 {
+	width: 15%;
+	height: 32.142857142857146%;
+}
+.People_People .Status .statuslight .StatusIcons .NetworkSignalLight .EmptyBar_1 {
+	visibility: hidden;
+	width: 15%;
+	height: 71.42857142857143%;
+}
+.People_People .Status .statuslight .StatusIcons .WiFiSignalLight {
+	width: 61.44px;
+	height: 53.76px;
+}
+.People_People .Status .statuslight .StatusIcons .WiFiSignalLight .Path_6 {
+	width: 27.32391357421875%;
+	height: 21.86006818498884%;
+}
+.People_People .Status .statuslight .StatusIcons .WiFiSignalLight .Path_7 {
+	width: 58.2489013671875%;
+	height: 23.673139299665177%;
+}
+.People_People .Status .statuslight .StatusIcons .WiFiSignalLight .Path_8 {
+	width: 89.0625%;
+	height: 30.875723702566965%;
+}
+.People_People .Status .statuslight .StatusIcons .BatteryLight {
+	width: 96px;
+	height: 53.76px;
+}
+.People_People .Status .statuslight .StatusIcons .BatteryLight ._ {
+	visibility: hidden;
+	width: 30.72px;
+	height: 46.08px;
+}
+.People_People .Status .statuslight .StatusIcons .BatteryLight .Subtract_2 {
+	visibility: hidden;
+	width: 88.32px;
+	height: 46.08px;
+}
+.People_People .Status .statuslight .StatusIcons .BatteryLight .Rectangle23 {
+	width: 3.84px;
+	height: 15.36px;
+}
+.People_People .Status .statuslight .StatusIcons .BatteryLight .Battery {
+	visibility: hidden;
+	width: 72.9609375px;
+	height: 30.72px;
+}
+.People_People .Status .statuslight .StatusIcons .BatteryLight .Battery ._100 {
+	width: 72.9609375px;
+	height: 30.72px;
+}
+.People_People .Status .statuslight .StatusIcons .BatteryLight .Battery ._50 {
+	visibility: hidden;
+	width: 32.4515625px;
+	height: 30.72px;
+}
+.People_People .Status .statuslight .StatusIcons .BatteryLight .Battery ._10 {
+	visibility: hidden;
+	width: 11.52px;
+	height: 30.72px;
+}
+.People_People .Status .statuslight .StatusIcons .BatteryLight .Rectangle21Stroke {
+	width: 88.32px;
+	height: 46.08px;
+}
+.People_People .Status .statuslight .StatusIcons .BatteryLight .Rectangle20 {
+	width: 72.96px;
+	height: 30.72px;
+	background: rgba(31,31,57,1.00);
+	border-radius: 3.84px;
+}
+.People_People .Status .statuslight .Indicator {
+	width: 23.04px;
+	height: 23.04px;
+}
+.People_People .Status .statuslight .Indicator .Indicator_1 {
+	visibility: hidden;
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+}
+.People_People .Status .statuslight .TimeLight {
+	width: 207.35999999999999px;
+	height: 80.64px;
+	border-radius: 76.8px;
+}
+.People_People .Status .statuslight .TimeLight ._941 {
+	width: 126.72px;
+	height: 57.599999999999994px;
+}
+.People_People .Status .statuslight .TimeLight ._941 ._941_1 {
+	width: 109.156875px;
+	height: 42.58125px;
+}
+.People_People .Title {
+	position: absolute;
+	left: 76.8px;
+	top: 230.39999999999998px;
+	width: 687.36px;
+	height: 138.24px;
+}
+.People_People .Title .PeopleofITMO {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 687.36px;
+	height: 138.24px;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 92.16px;
+	font-weight: 600;
+	line-height: 108px;
+}
+.People_People .Avatar {
+	position: absolute;
+	left: 1201.9199999999998px;
+	top: 195.37546874999998px;
+	width: 138.24px;
+	height: 138.24px;
+}
+.People_People .Avatar .Ellipse212 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 138.24px;
+	height: 138.24px;
+	background: rgba(234,234,255,1.00);
+	border-radius: 50%;
+}
+.People_People .Avatar .MaskGroup {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 138.24px;
+	height: 138.24px;
+}
+.People_People .Avatar .MaskGroup .Avatar_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 138.24px;
+	height: 138.24px;
+}
+.People_People .Avatar .MaskGroup .Avatar_1 .Vector {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.People_People .Avatar .MaskGroup .Vector_1 {
+	position: absolute;
+	left: 77.56875px;
+	top: 53.117109375px;
+	width: 5.405680338541666%;
+	height: 0.9381612141927084%;
+}
+.People_People .Avatar .MaskGroup .Vector_2 {
+	position: absolute;
+	left: 58.099687499999995px;
+	top: 53.117109375px;
+	width: 5.405680338541666%;
+	height: 0.9381612141927084%;
+}
+.People_People .Avatar .MaskGroup .Group {
+	position: absolute;
+	left: 0px;
+	top: 105.5164453125px;
+	width: 100%;
+	height: 62.487453884548614%;
+}
+.People_People .Avatar .MaskGroup .Group .Vector_3 {
+	position: absolute;
+	left: 103.8253125px;
+	top: 49.226367187499996px;
+	width: 24.894205729166664%;
+	height: 31.26821247754812%;
+}
+.People_People .Avatar .MaskGroup .Group .Vector_4 {
+	position: absolute;
+	left: 0px;
+	top: 48.506601562499995px;
+	width: 25.290934244791668%;
+	height: 32.69672188970225%;
+}
+.People_People .Avatar .MaskGroup .Group .Vector_5 {
+	position: absolute;
+	left: 103.8253125px;
+	top: 49.226367187499996px;
+	width: 24.84469943576389%;
+	height: 12.856449048474358%;
+}
+.People_People .Avatar .MaskGroup .Group .Vector_6 {
+	position: absolute;
+	left: 0.44437499999999996px;
+	top: 47.513203125px;
+	width: 25.19192165798611%;
+	height: 14.165916009615644%;
+}
+.People_People .Avatar .MaskGroup .Group .Vector_7 {
+	position: absolute;
+	left: 0.0365625px;
+	top: 0.00029296875px;
+	width: 99.32996961805556%;
+	height: 100%;
+}
+.People_People .Avatar .MaskGroup .Group .Vector_8 {
+	position: absolute;
+	left: 16.48875px;
+	top: 31.505097656249998px;
+	width: 10.439046223958332%;
+	height: 26.625624718503605%;
+}
+.People_People .Avatar .MaskGroup .Group .Vector_9 {
+	position: absolute;
+	left: 103.8253125px;
+	top: 28.62638671875px;
+	width: 11.777750651041668%;
+	height: 32.974487608732225%;
+}
+.People_People .Avatar .MaskGroup .Group .Vector_10 {
+	position: absolute;
+	left: 24.3646875px;
+	top: 28.7567578125px;
+	width: 5.439588758680555%;
+	height: 30.204427429551288%;
+}
+.People_People .Avatar .MaskGroup .Group .Vector_11 {
+	position: absolute;
+	left: 103.3575px;
+	top: 28.1935546875px;
+	width: 6.849500868055555%;
+	height: 33.7532490788624%;
+}
+.People_People .Avatar .MaskGroup .Vector_12 {
+	position: absolute;
+	left: 32.66625px;
+	top: 10.568671875px;
+	width: 51.267496744791664%;
+	height: 39.824888441297745%;
+}
+.People_People .Avatar .MaskGroup .Group_1 {
+	position: absolute;
+	left: 30.916874999999997px;
+	top: 37.2571875px;
+	width: 55.271402994791664%;
+	height: 55.3062015109592%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Vector_13 {
+	visibility: hidden;
+	position: absolute;
+	left: 2.540625px;
+	top: -27.7123828125px;
+	width: 91.27986159679023%;
+	height: 78.77121816747993%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Group_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Group_2 .Vector_14 {
+	position: absolute;
+	left: 0px;
+	top: 17.2311328125px;
+	width: 23.037754137986035%;
+	height: 26.008689207924057%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Group_2 .Group_3 {
+	position: absolute;
+	left: 6.9712499999999995px;
+	top: -0.00005859375px;
+	width: 90.87618556827523%;
+	height: 100%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Group_2 .Group_3 .Vector_15 {
+	position: absolute;
+	left: 51.833437499999995px;
+	top: 17.19498046875px;
+	width: 25.350705461419025%;
+	height: 26.05597480758133%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Group_2 .Group_3 .Vector_16 {
+	position: absolute;
+	left: 54.849374999999995px;
+	top: 22.9651171875px;
+	width: 13.70012826571255%;
+	height: 14.190278172675974%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Group_2 .Group_3 .Vector_17 {
+	position: absolute;
+	left: 0px;
+	top: 22.97783203125px;
+	width: 13.68392628096942%;
+	height: 14.174030932599244%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Group_2 .Group_3 .Vector_18 {
+	position: absolute;
+	left: 8.3353125px;
+	top: -0.00005859375px;
+	width: 69.61722811044353%;
+	height: 100%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Group_2 .Group_3 .Vector_19 {
+	position: absolute;
+	left: 20.675625px;
+	top: 20.4123046875px;
+	width: 7.305744953756835%;
+	height: 7.89056410877374%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Group_2 .Group_3 .Vector_20 {
+	position: absolute;
+	left: 39.1509375px;
+	top: 20.4123046875px;
+	width: 7.305744953756835%;
+	height: 7.89056410877374%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Group_2 .Group_3 .Vector_21 {
+	position: absolute;
+	left: 30.253124999999997px;
+	top: 18.56162109375px;
+	width: 4.8160399648957%;
+	height: 13.192069200980658%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Group_2 .Group_3 .Vector_22 {
+	position: absolute;
+	left: 18.7903125px;
+	top: 52.7016796875px;
+	width: 31.79099439681361%;
+	height: 18.560785753316313%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Group_2 .Group_3 .Group_4 {
+	position: absolute;
+	left: 12.0375px;
+	top: 27.027890624999998px;
+	width: 57.2119084587862%;
+	height: 8.966560574232643%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Group_2 .Group_3 .Group_4 .Vector_23 {
+	position: absolute;
+	left: 28.8253125px;
+	top: 0px;
+	width: 27.43899561051588%;
+	height: 100%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Group_2 .Group_3 .Group_4 .Vector_24 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 27.43899561051588%;
+	height: 100%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Vector_25 {
+	position: absolute;
+	left: 35.214375px;
+	top: 32.1198046875px;
+	width: 12.210893117875854%;
+	height: 6.761227647591232%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Vector_26 {
+	position: absolute;
+	left: 16.4025px;
+	top: 36.385546874999996px;
+	width: 59.62012736040049%;
+	height: 26.25025194717808%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Vector_27 {
+	position: absolute;
+	left: 31.401562499999997px;
+	top: 41.102109375px;
+	width: 2.9067128010699257%;
+	height: 3.783920903530479%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Vector_28 {
+	position: absolute;
+	left: 24.2146875px;
+	top: 40.46033203125px;
+	width: 3.7803217138440015%;
+	height: 2.8749951143322883%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Vector_29 {
+	position: absolute;
+	left: 38.956875px;
+	top: 42.1447265625px;
+	width: 1.077287395246684%;
+	height: 3.317655768498288%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Vector_30 {
+	position: absolute;
+	left: 44.7496875px;
+	top: 41.081015625px;
+	width: 2.0208341001950894%;
+	height: 3.363408609657758%;
+}
+.People_People .Avatar .MaskGroup .Group_1 .Vector_31 {
+	position: absolute;
+	left: 50.597812499999996px;
+	top: 40.7258203125px;
+	width: 4.251481576913166%;
+	height: 2.9310940753519406%;
+}
+.People_People .Avatar .MaskGroup .Group_5 {
+	position: absolute;
+	left: 1.2px;
+	top: 120.9657421875px;
+	width: 97.58436414930556%;
+	height: 42.72176954481337%;
+}
+.People_People .Avatar .MaskGroup .Group_5 .Group_6 {
+	position: absolute;
+	left: 16.531875px;
+	top: 0.00005859375px;
+	width: 73.73274771706951%;
+	height: 99.99970236116886%;
+}
+.People_People .Avatar .MaskGroup .Group_5 .Group_6 .Vector_32 {
+	position: absolute;
+	left: 31.209374999999998px;
+	top: 6.9527343749999995px;
+	width: 7.351763009321659%;
+	height: 7.931800819501354%;
+}
+.People_People .Avatar .MaskGroup .Group_5 .Group_6 .Vector_33 {
+	position: absolute;
+	left: 27.0346875px;
+	top: 23.538808593749998px;
+	width: 4.03781445281205%;
+	height: 15.718849523280387%;
+}
+.People_People .Avatar .MaskGroup .Group_5 .Group_6 .Vector_34 {
+	position: absolute;
+	left: 0px;
+	top: 10.931835937499999px;
+	width: 7.466752123057202%;
+	height: 14.949550067961068%;
+}
+.People_People .Avatar .MaskGroup .Group_5 .Group_6 .Vector_35 {
+	position: absolute;
+	left: 16.9228125px;
+	top: 51.2567578125px;
+	width: 10.209525245765667%;
+	height: 6.361056819421984%;
+}
+.People_People .Avatar .MaskGroup .Group_5 .Group_6 .Vector_36 {
+	position: absolute;
+	left: 52.709062499999995px;
+	top: 42.7838671875px;
+	width: 4.286643354666013%;
+	height: 16.311152560197634%;
+}
+.People_People .Avatar .MaskGroup .Group_5 .Group_6 .Vector_37 {
+	position: absolute;
+	left: 78.23625px;
+	top: 50.264589843749995px;
+	width: 5.745685551900619%;
+	height: 14.890518190747374%;
+}
+.People_People .Avatar .MaskGroup .Group_5 .Group_6 .Vector_38 {
+	position: absolute;
+	left: 66.0525px;
+	top: 0.00029296875px;
+	width: 3.063234587217358%;
+	height: 15.70168563293086%;
+}
+.People_People .Avatar .MaskGroup .Group_5 .Group_6 .Vector_39 {
+	position: absolute;
+	left: 62.615624999999994px;
+	top: 23.58134765625px;
+	width: 12.497054582127676%;
+	height: 10.350818013155676%;
+}
+.People_People .Avatar .MaskGroup .Group_5 .Group_6 .Vector_40 {
+	position: absolute;
+	left: 94.04249999999999px;
+	top: 13.734140625px;
+	width: 5.451615031527752%;
+	height: 11.604476501344339%;
+}
+.People_People .Avatar .MaskGroup .Group_5 .Vector_41 {
+	position: absolute;
+	left: 109.87593749999999px;
+	top: 34.66201171875px;
+	width: 18.550460755834155%;
+	height: 4.98465671825409%;
+}
+.People_People .Avatar .MaskGroup .Group_5 .Vector_42 {
+	position: absolute;
+	left: 0px;
+	top: 33.27708984375px;
+	width: 18.346838645113763%;
+	height: 1.4803563332086556%;
+}
+.People_People .Avatar .MaskGroup .image3 {
+	position: absolute;
+	left: -80.64px;
+	top: -41.77546875px;
+	width: 295.68px;
+	height: 222.72px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.People_People .SearchBar {
+	position: absolute;
+	left: 76.8px;
+	top: 430.08px;
+	width: 1286.3999999999999px;
+	height: 184.32px;
+	border-radius: 46.08px;
+}
+.People_People .SearchBar .Search {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1286.3999999999999px;
+	height: 184.32px;
+	background: rgba(244,243,253,1.00);
+	border-radius: 46.08px;
+}
+.People_People .SearchBar .Search .FindCousre {
+	width: 318.71999999999997px;
+	height: 76.8px;
+	font-size: 53.76px;
+	font-weight: 400;
+	line-height: 76.8px;
+}
+.People_People .SearchBar .Search .iconsearch {
+	position: absolute;
+	left: 61.44px;
+	top: 61.44px;
+	width: 61.44px;
+	height: 61.44px;
+}
+.People_People .SearchBar .Search .iconsearch .VectorStroke {
+	width: 86.8896484375%;
+	height: 86.88974380493164%;
+}
+.People_People .SearchBar .Search .iconfilter {
+	visibility: hidden;
+	position: absolute;
+	right: 61.44px;
+	top: 46.08px;
+	width: 92.16px;
+	height: 92.16px;
+}
+.People_People .SearchBar .Search .iconfilter .VectorStroke_1 {
+	width: 87.5%;
+	height: 83.33333333333334%;
+}
+.People_People .SearchBar .Search .icondeletetwo {
+	visibility: hidden;
+	position: absolute;
+	right: 215.04px;
+	top: 46.08px;
+	width: 92.16px;
+	height: 92.16px;
+}
+.People_People .SearchBar .Search .icondeletetwo .Subtract_3 {
+	width: 61.44px;
+	height: 61.44px;
+}
+.People_People .Courses {
+	position: absolute;
+	left: 0px;
+	top: 614.4px;
+	width: 1440px;
+	height: 2201.504296875px;
+}
+.People_People .Courses .Title_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 184.32px;
+}
+.People_People .Courses .Title_1 .Rectangle85 {
+	position: absolute;
+	left: 0px;
+	top: 23.04px;
+	width: 1440px;
+	height: 138.24px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 38.4px;
+}
+.People_People .Courses .Title_1 .Title_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 184.32px;
+}
+.People_People .Courses .Title_1 .Title_2 .Rectangle26 {
+	width: 1440px;
+	height: 184.32px;
+}
+.People_People .Courses .Title_1 .Title_2 .Popularcourse {
+	width: 545.28px;
+	height: 76.8px;
+	font-size: 69.12px;
+	font-weight: 500;
+	line-height: 76.8px;
+}
+.People_People .Courses .Title_1 .Title_2 .Seeall {
+	width: 176.64px;
+	height: 76.8px;
+	font-size: 53.76px;
+	font-weight: 400;
+	line-height: 76.8px;
+}
+.People_People .Courses .Tabs {
+	position: absolute;
+	left: 76.8px;
+	top: 281.36062499999997px;
+	width: 971.52px;
+	height: 107.52px;
+}
+.People_People .Courses .Tabs .tabs {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 971.52px;
+	height: 107.52px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.People_People .Courses .Tabs .tabs .tabon {
+	position: relative;
+	flex: none;
+	margin-right: 65.28px;
+	width: 280.32px;
+	height: 107.52px;
+	border-radius: 76.8px;
+}
+.People_People .Courses .Tabs .tabs .tabon .Poular {
+	width: 65.28px;
+	height: 76.8px;
+	font-size: 53.76px;
+	font-weight: 400;
+	line-height: 76.8px;
+}
+.People_People .Courses .Tabs .tabs .taboff {
+	position: relative;
+	flex: none;
+	margin-right: 65.28px;
+	width: 280.32px;
+	height: 107.52px;
+}
+.People_People .Courses .Tabs .tabs .taboff .tabon_1 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 100%;
+	height: 100%;
+	background: rgba(255,255,255,1.00);
+	border-radius: 76.8px;
+}
+.People_People .Courses .Tabs .tabs .taboff .tabon_1 .Poular_1 {
+	width: 172.79999999999998px;
+	height: 76.8px;
+	color: rgba(133,133,151,1.00);
+	font-size: 53.76px;
+	font-weight: 400;
+	line-height: 76.8px;
+}
+.People_People .Courses .Tabs .tabs .taboff_1 {
+	position: relative;
+	flex: none;
+	margin-right: 65.28px;
+	width: 280.32px;
+	height: 107.52px;
+}
+.People_People .Courses .Tabs .tabs .taboff_1 .tabon_2 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 100%;
+	height: 100%;
+	background: rgba(255,255,255,1.00);
+	border-radius: 76.8px;
+}
+.People_People .Courses .Tabs .tabs .taboff_1 .tabon_2 .Poular_2 {
+	width: 119.03999999999999px;
+	height: 76.8px;
+	color: rgba(133,133,151,1.00);
+	font-size: 53.76px;
+	font-weight: 400;
+	line-height: 76.8px;
+}
+.People_People .Courses .Courselist {
+	position: absolute;
+	left: 76.8px;
+	top: 542.624296875px;
+	width: 1286.3999999999999px;
+	height: 1658.8799999999999px;
+}
+.People_People .Courses .Courselist .List {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1286.3999999999999px;
+	height: 1658.8799999999999px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.People_People .Courses .Courselist .List .Courselist_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 1286.3999999999999px;
+	height: 368.64px;
+}
+.People_People .Courses .Courselist .List .Courselist_1 .BG {
+	width: 100%;
+	height: 100%;
+	border-radius: 46.08px;
+}
+.People_People .Courses .Courselist .List .Courselist_1 .Image {
+	width: 20.298507462686565%;
+	height: 70.83333333333334%;
+	background: linear-gradient(0deg, rgba(196,196,196,1.00), rgba(196,196,196,1.00));
+	border-radius: 30.72px;
+	background-size: cover;
+}
+.People_People .Courses .Courselist .List .Courselist_1 .Name {
+	width: 22.08955223880597%;
+	height: 21.875%;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 63px;
+}
+.People_People .Courses .Courselist .List .Courselist_1 .nameenx {
+	width: 31.94029850746269%;
+	height: 18.75%;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 54px;
+}
+.People_People .Courses .Courselist .List .Courselist_1 .iconpeople {
+	position: absolute;
+	left: 449.28px;
+	top: 149.76px;
+	width: 3.582089552238806%;
+	height: 12.5%;
+}
+.People_People .Courses .Courselist .List .Courselist_1 .iconpeople .Union {
+	width: 70.83333333333334%;
+	height: 83.33333333333334%;
+}
+.People_People .Courses .Courselist .List .Courselist_1 .Frame17 {
+	width: 295.68px;
+	height: 92.16px;
+}
+.People_People .Courses .Courselist .List .Courselist_1 .Frame17 .Price {
+	width: 100%;
+	height: 100%;
+}
+.People_People .Courses .Courselist .List .Courselist_1 .Frame17 .Price .__1 {
+	visibility: hidden;
+	width: 14.285714285714285%;
+	height: 100%;
+	font-size: 61.44px;
+	font-weight: 600;
+	line-height: 72px;
+}
+.People_People .Courses .Courselist .List .Courselist_1 .Frame17 .Price ._90 {
+	width: 100%;
+	height: 100%;
+	font-size: 61.44px;
+	font-weight: 600;
+	line-height: 72px;
+}
+.People_People .Courses .Courselist .List .Courselist_1 .Frame17 .Duration {
+	visibility: hidden;
+	width: 218.88px;
+	height: 62.5%;
+	border-radius: 49.92px;
+}
+.People_People .Courses .Courselist .List .Courselist_1 .Frame17 .Duration .Duration_1 {
+	width: 157.44px;
+	height: 57.599999999999994px;
+	font-size: 38.4px;
+	font-weight: 400;
+	line-height: 45px;
+}
+.People_People .Courses .Courselist .List .Courselist_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 1286.3999999999999px;
+	height: 368.64px;
+}
+.People_People .Courses .Courselist .List .Courselist_2 .BG_1 {
+	width: 100%;
+	height: 100%;
+	border-radius: 46.08px;
+}
+.People_People .Courses .Courselist .List .Courselist_2 .Image_1 {
+	width: 20.298507462686565%;
+	height: 70.83333333333334%;
+	background: linear-gradient(0deg, rgba(196,196,196,1.00), rgba(196,196,196,1.00));
+	border-radius: 30.72px;
+	background-size: cover;
+}
+.People_People .Courses .Courselist .List .Courselist_2 .Name_1 {
+	width: 15.223880597014924%;
+	height: 21.875%;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 63px;
+}
+.People_People .Courses .Courselist .List .Courselist_2 .nameenx_1 {
+	width: 26.268656716417908%;
+	height: 18.75%;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 54px;
+}
+.People_People .Courses .Courselist .List .Courselist_2 .iconpeople_1 {
+	position: absolute;
+	left: 449.28px;
+	top: 149.76px;
+	width: 3.582089552238806%;
+	height: 12.5%;
+}
+.People_People .Courses .Courselist .List .Courselist_2 .iconpeople_1 .Union_1 {
+	width: 70.83333333333334%;
+	height: 83.33333333333334%;
+}
+.People_People .Courses .Courselist .List .Courselist_2 .Frame17_1 {
+	width: 295.68px;
+	height: 92.16px;
+}
+.People_People .Courses .Courselist .List .Courselist_2 .Frame17_1 .Price_1 {
+	width: 100%;
+	height: 100%;
+}
+.People_People .Courses .Courselist .List .Courselist_2 .Frame17_1 .Price_1 .__2 {
+	visibility: hidden;
+	width: 14.285714285714285%;
+	height: 100%;
+	font-size: 61.44px;
+	font-weight: 600;
+	line-height: 72px;
+}
+.People_People .Courses .Courselist .List .Courselist_2 .Frame17_1 .Price_1 ._90_1 {
+	width: 100%;
+	height: 100%;
+	font-size: 61.44px;
+	font-weight: 600;
+	line-height: 72px;
+}
+.People_People .Courses .Courselist .List .Courselist_2 .Frame17_1 .Duration_2 {
+	visibility: hidden;
+	width: 218.88px;
+	height: 62.5%;
+	border-radius: 49.92px;
+}
+.People_People .Courses .Courselist .List .Courselist_2 .Frame17_1 .Duration_2 .Duration_3 {
+	width: 157.44px;
+	height: 57.599999999999994px;
+	font-size: 38.4px;
+	font-weight: 400;
+	line-height: 45px;
+}
+.People_People .Courses .Courselist .List .Courselist_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 1286.3999999999999px;
+	height: 368.64px;
+}
+.People_People .Courses .Courselist .List .Courselist_3 .BG_2 {
+	width: 100%;
+	height: 100%;
+	border-radius: 46.08px;
+}
+.People_People .Courses .Courselist .List .Courselist_3 .Image_2 {
+	width: 20.298507462686565%;
+	height: 70.83333333333334%;
+	background: linear-gradient(0deg, rgba(196,196,196,1.00), rgba(196,196,196,1.00));
+	border-radius: 30.72px;
+	background-size: cover;
+}
+.People_People .Courses .Courselist .List .Courselist_3 .Name_2 {
+	width: 13.432835820895523%;
+	height: 21.875%;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 63px;
+}
+.People_People .Courses .Courselist .List .Courselist_3 .nameenx_2 {
+	width: 22.686567164179106%;
+	height: 18.75%;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 54px;
+}
+.People_People .Courses .Courselist .List .Courselist_3 .iconpeople_2 {
+	position: absolute;
+	left: 449.28px;
+	top: 149.76px;
+	width: 3.582089552238806%;
+	height: 12.5%;
+}
+.People_People .Courses .Courselist .List .Courselist_3 .iconpeople_2 .Union_2 {
+	width: 70.83333333333334%;
+	height: 83.33333333333334%;
+}
+.People_People .Courses .Courselist .List .Courselist_3 .Frame17_2 {
+	width: 295.68px;
+	height: 92.16px;
+}
+.People_People .Courses .Courselist .List .Courselist_3 .Frame17_2 .Price_2 {
+	width: 100%;
+	height: 100%;
+}
+.People_People .Courses .Courselist .List .Courselist_3 .Frame17_2 .Price_2 .__3 {
+	visibility: hidden;
+	width: 14.285714285714285%;
+	height: 100%;
+	font-size: 61.44px;
+	font-weight: 600;
+	line-height: 72px;
+}
+.People_People .Courses .Courselist .List .Courselist_3 .Frame17_2 .Price_2 ._90_2 {
+	width: 100%;
+	height: 100%;
+	font-size: 61.44px;
+	font-weight: 600;
+	line-height: 72px;
+}
+.People_People .Courses .Courselist .List .Courselist_3 .Frame17_2 .Duration_4 {
+	visibility: hidden;
+	width: 218.88px;
+	height: 62.5%;
+	border-radius: 49.92px;
+}
+.People_People .Courses .Courselist .List .Courselist_3 .Frame17_2 .Duration_4 .Duration_5 {
+	width: 157.44px;
+	height: 57.599999999999994px;
+	font-size: 38.4px;
+	font-weight: 400;
+	line-height: 45px;
+}
+.People_People .Courses .Courselist .List .Courselist_4 {
+	position: relative;
+	flex: none;
+	margin-bottom: 61.44px;
+	width: 1286.3999999999999px;
+	height: 368.64px;
+}
+.People_People .Courses .Courselist .List .Courselist_4 .BG_3 {
+	width: 100%;
+	height: 100%;
+	border-radius: 46.08px;
+}
+.People_People .Courses .Courselist .List .Courselist_4 .Image_3 {
+	width: 20.298507462686565%;
+	height: 70.83333333333334%;
+	background: linear-gradient(0deg, rgba(196,196,196,1.00), rgba(196,196,196,1.00));
+	border-radius: 30.72px;
+	background-size: cover;
+}
+.People_People .Courses .Courselist .List .Courselist_4 .Name_3 {
+	width: 22.98507462686567%;
+	height: 21.875%;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 63px;
+}
+.People_People .Courses .Courselist .List .Courselist_4 .nameenx_3 {
+	width: 22.686567164179106%;
+	height: 18.75%;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 54px;
+}
+.People_People .Courses .Courselist .List .Courselist_4 .iconpeople_3 {
+	position: absolute;
+	left: 449.28px;
+	top: 149.76px;
+	width: 3.582089552238806%;
+	height: 12.5%;
+}
+.People_People .Courses .Courselist .List .Courselist_4 .iconpeople_3 .Union_3 {
+	width: 70.83333333333334%;
+	height: 83.33333333333334%;
+}
+.People_People .Courses .Courselist .List .Courselist_4 .Frame17_3 {
+	width: 295.68px;
+	height: 92.16px;
+}
+.People_People .Courses .Courselist .List .Courselist_4 .Frame17_3 .Price_3 {
+	width: 100%;
+	height: 100%;
+}
+.People_People .Courses .Courselist .List .Courselist_4 .Frame17_3 .Price_3 .__4 {
+	visibility: hidden;
+	width: 14.285714285714285%;
+	height: 100%;
+	font-size: 61.44px;
+	font-weight: 600;
+	line-height: 72px;
+}
+.People_People .Courses .Courselist .List .Courselist_4 .Frame17_3 .Price_3 ._90_3 {
+	width: 100%;
+	height: 100%;
+	font-size: 61.44px;
+	font-weight: 600;
+	line-height: 72px;
+}
+.People_People .Courses .Courselist .List .Courselist_4 .Frame17_3 .Duration_6 {
+	visibility: hidden;
+	width: 218.88px;
+	height: 62.5%;
+	border-radius: 49.92px;
+}
+.People_People .Courses .Courselist .List .Courselist_4 .Frame17_3 .Duration_6 .Duration_7 {
+	width: 157.44px;
+	height: 57.599999999999994px;
+	font-size: 38.4px;
+	font-weight: 400;
+	line-height: 45px;
+}
+.People_People .FooterMessage {
+	position: absolute;
+	left: 1.92px;
+	top: 2691.8399999999997px;
+	width: 1440px;
+	height: 426.24px;
+}
+.People_People .FooterMessage .Union_4 {
+	width: 100%;
+	height: 100%;
+}
+.People_People .FooterMessage .Search_1 {
+	width: 13.866666666666665%;
+	height: 61.261261261261254%;
+}
+.People_People .FooterMessage .Search_1 .Scan {
+	width: 53.84615384615385%;
+	height: 20.588235294117645%;
+	font-size: 42.239999999999995px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.People_People .FooterMessage .Search_1 .Ellipse18 {
+	width: 100%;
+	height: 76.47058823529412%;
+	border-radius: 50%;
+}
+.People_People .FooterMessage .Search_1 .iconsearch_1 {
+	position: absolute;
+	left: 61.44px;
+	top: 61.44px;
+	width: 38.46153846153847%;
+	height: 29.411764705882355%;
+}
+.People_People .FooterMessage .Search_1 .iconsearch_1 .VectorStroke_2 {
+	width: 86.8896484375%;
+	height: 86.88980102539062%;
+}
+.People_People .FooterMessage .Footeron {
+	position: absolute;
+	left: 119.03999999999999px;
+	top: 57.599999999999994px;
+	width: 8.799999999999999%;
+	height: 53.153153153153156%;
+}
+.People_People .FooterMessage .Footeron .Rectangle19 {
+	visibility: hidden;
+	width: 78.78787878787878%;
+	height: 3.389830508474576%;
+}
+.People_People .FooterMessage .Footeron .Home {
+	width: 100%;
+	height: 23.728813559322035%;
+	color: rgba(184,184,210,1.00);
+	font-size: 42.239999999999995px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.People_People .FooterMessage .Footeron .iconfooterhomeoff {
+	position: absolute;
+	left: 15.36px;
+	top: 53.76px;
+	width: 72.72727272727273%;
+	height: 40.67796610169492%;
+}
+.People_People .FooterMessage .Footeron .iconfooterhomeoff .iconfooterhomeon {
+	width: 83.7121875px;
+	height: 82.6344140625px;
+}
+.People_People .FooterMessage .Footeron .iconfooterhomeoff .iconfooterhomeon .Frame28 {
+	width: 83.7121875px;
+	height: 82.6344140625px;
+}
+.People_People .FooterMessage .Footeron .iconfooterhomeoff .home_1_fill {
+	width: 75%;
+	height: 78.125%;
+}
+.People_People .FooterMessage .Footeroff {
+	position: absolute;
+	left: 368.64px;
+	top: 57.599999999999994px;
+	width: 8.799999999999999%;
+	height: 53.153153153153156%;
+}
+.People_People .FooterMessage .Footeroff .Rectangle19_1 {
+	visibility: hidden;
+	width: 78.78787878787878%;
+	height: 3.389830508474576%;
+}
+.People_People .FooterMessage .Footeroff .Home_1 {
+	width: 154.54545454545453%;
+	height: 23.728813559322035%;
+	font-size: 42.239999999999995px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.People_People .FooterMessage .Footeroff .iconfootercourseoff {
+	position: absolute;
+	left: 15.36px;
+	top: 53.76px;
+	width: 72.72727272727273%;
+	height: 40.67796610169492%;
+}
+.People_People .FooterMessage .Footeroff .iconfootercourseoff .Subtract_4 {
+	width: 66.66666666666666%;
+	height: 83.33333333333334%;
+}
+.People_People .FooterMessage .Footeroff_1 {
+	position: absolute;
+	left: 940.8px;
+	top: 57.599999999999994px;
+	width: 8.799999999999999%;
+	height: 53.153153153153156%;
+}
+.People_People .FooterMessage .Footeroff_1 .Rectangle19_2 {
+	visibility: hidden;
+	width: 78.78787878787878%;
+	height: 3.389830508474576%;
+}
+.People_People .FooterMessage .Footeroff_1 .Home_2 {
+	width: 75.75757575757575%;
+	height: 23.728813559322035%;
+	font-size: 42.239999999999995px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.People_People .FooterMessage .Footeroff_1 .iconfooternotificationoff {
+	position: absolute;
+	left: 15.36px;
+	top: 53.76px;
+	width: 72.72727272727273%;
+	height: 40.67796610169492%;
+}
+.People_People .FooterMessage .Footeroff_1 .iconfooternotificationoff .Vector_43 {
+	width: 100%;
+	height: 100%;
+}
+.People_People .FooterMessage .Footeroff_1 .iconfooternotificationoff .message_1_fill {
+	width: 83.33333333333334%;
+	height: 74.78968302408853%;
+}
+.People_People .FooterMessage .Footeroff_2 {
+	position: absolute;
+	left: 1190.3999999999999px;
+	top: 57.599999999999994px;
+	width: 8.799999999999999%;
+	height: 53.153153153153156%;
+}
+.People_People .FooterMessage .Footeroff_2 .Rectangle19_3 {
+	width: 78.78787878787878%;
+	height: 3.389830508474576%;
+}
+.People_People .FooterMessage .Footeroff_2 .Home_3 {
+	width: 115.15151515151516%;
+	height: 23.728813559322035%;
+	color: rgba(61,92,255,1.00);
+	font-size: 42.239999999999995px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.People_People .FooterMessage .Footeroff_2 .iconfooteraccounton {
+	position: absolute;
+	left: 15.36px;
+	top: 53.76px;
+	width: 72.72727272727273%;
+	height: 40.67796610169492%;
+}
+.People_People .FooterMessage .Footeroff_2 .iconfooteraccounton .Vector_44 {
+	width: 100%;
+	height: 100%;
+}
+.People_People .FooterMessage .Footeroff_2 .iconfooteraccounton .user_2_fill {
+	width: 75%;
+	height: 83.33333333333334%;
+}

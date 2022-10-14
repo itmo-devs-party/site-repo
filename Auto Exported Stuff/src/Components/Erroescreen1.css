@@ -1,0 +1,535 @@
+
+.Erroescreen1_Erroescreen1 {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+	border-radius: 69.12px;
+}
+.Erroescreen1_Erroescreen1 .NoNetwork {
+	position: absolute;
+	left: 535.68px;
+	top: 1351.6799999999998px;
+	width: 25.866666666666667%;
+	height: 2.3399014778325125%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 61.44px;
+	font-weight: 500;
+	line-height: 73.72800292968749px;
+}
+.Erroescreen1_Erroescreen1 .Pleasecheckyourinternetconnectionandtryagain {
+	position: absolute;
+	left: 307.2px;
+	top: 1455.36px;
+	width: 56.76953125000001%;
+	height: 4.433497536945813%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(184,184,210,1.00);
+	font-family: Poppins;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 54px;
+}
+.Erroescreen1_Erroescreen1 .Frame30 {
+	position: absolute;
+	left: 468.1771875px;
+	top: 844.5290625px;
+	width: 34.975390625%;
+	height: 10.362206069119457%;
+}
+.Erroescreen1_Erroescreen1 .Illustration {
+	position: absolute;
+	left: 412.8px;
+	top: 737.28px;
+	width: 614.4px;
+	height: 614.4px;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 {
+	position: absolute;
+	left: 24.127499999999998px;
+	top: 96.050625px;
+	width: 92.14599609375%;
+	height: 63.733596801757805%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group {
+	position: absolute;
+	left: 51.804375px;
+	top: 0px;
+	width: 83.04354449831757%;
+	height: 99.98683216638395%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Vector {
+	position: absolute;
+	left: 44.469375px;
+	top: 23.794453125px;
+	width: 27.911224550838504%;
+	height: 19.69472941925798%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_1 {
+	position: absolute;
+	left: 219.25312499999998px;
+	top: 0px;
+	width: 30.947775628626694%;
+	height: 32.233115716202995%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_1 .Vector_1 {
+	position: absolute;
+	left: 77.4140625px;
+	top: 70.00828125px;
+	width: 41.66688144329897%;
+	height: 44.52661293317981%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_1 .Group_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 48.07692307692308%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_1 .Group_2 .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 70.51288659793813%;
+	height: 100%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_1 .Group_2 .Vector_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 65.3846649484536%;
+	height: 93.846064703042%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_1 .Group_2 .Vector_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 44.615354901014%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Vector_5 {
+	position: absolute;
+	left: 2.8678125px;
+	top: 157.2853125px;
+	width: 99.3902171528844%;
+	height: 59.721834784180714%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Vector_6 {
+	position: absolute;
+	left: 199.75875px;
+	top: 159.728203125px;
+	width: 50.06221460049054%;
+	height: 59.14554647121432%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Vector_7 {
+	position: absolute;
+	left: 292.003125px;
+	top: 212.82515625px;
+	width: 10.315858740951963%;
+	height: 12.397352198539615%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Vector_8 {
+	position: absolute;
+	left: 164.22375px;
+	top: 225.8934375px;
+	width: 18.05300205387944%;
+	height: 21.695366347444324%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Vector_9 {
+	position: absolute;
+	left: 28.05px;
+	top: 297.114375px;
+	width: 15.235797323974557%;
+	height: 23.84104810603657%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_3 {
+	position: absolute;
+	left: 0px;
+	top: 144.65882812499999px;
+	width: 29.84924923727293%;
+	height: 63.052717779754545%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_3 .Vector_10 {
+	position: absolute;
+	left: 0px;
+	top: 0.11882812499999999px;
+	width: 100%;
+	height: 99.95167600709006%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_3 .Vector_11 {
+	position: absolute;
+	left: 107.73468749999999px;
+	top: 5.625px;
+	width: 21.378038759845282%;
+	height: 10.70058397029546%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_3 .Vector_12 {
+	position: absolute;
+	left: 98.04843749999999px;
+	top: -0.000234375px;
+	width: 23.312690809734722%;
+	height: 10.672861758252818%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_4 {
+	position: absolute;
+	left: 115.929375px;
+	top: 139.32398437499998px;
+	width: 18.005144668886718%;
+	height: 27.594135471751873%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_4 .Vector_13 {
+	position: absolute;
+	left: 20.31375px;
+	top: 70.701328125px;
+	width: 46.276607526524465%;
+	height: 34.5596737279403%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_4 .Vector_14 {
+	position: absolute;
+	left: 20.779687499999998px;
+	top: 74.62195312499999px;
+	width: 44.18233769685693%;
+	height: 15.292701181217664%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_4 .Vector_15 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 78.7289707461521%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_4 .Vector_16 {
+	position: absolute;
+	left: 40.636874999999996px;
+	top: 39.337734375px;
+	width: 47.2168693379405%;
+	height: 40.27377349690324%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_5 {
+	position: absolute;
+	left: 0px;
+	top: 144.65882812499999px;
+	width: 29.84924923727293%;
+	height: 63.052717779754545%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_5 .Vector_17 {
+	position: absolute;
+	left: 0px;
+	top: 0.11882812499999999px;
+	width: 100%;
+	height: 99.95167600709006%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_5 .Vector_18 {
+	position: absolute;
+	left: 107.73468749999999px;
+	top: 5.625px;
+	width: 21.378038759845282%;
+	height: 10.70058397029546%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Group_5 .Vector_19 {
+	position: absolute;
+	left: 98.04843749999999px;
+	top: -0.000234375px;
+	width: 23.312690809734722%;
+	height: 10.672861758252818%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Vector_20 {
+	position: absolute;
+	left: 208.80656249999998px;
+	top: 297.95484375px;
+	width: 18.290893138447426%;
+	height: 23.84104810603657%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Vector_21 {
+	position: absolute;
+	left: 25.681874999999998px;
+	top: 306.599296875px;
+	width: 2.773136054557419%;
+	height: 5.492787267182994%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Vector_22 {
+	position: absolute;
+	left: 37.843125px;
+	top: 303.83578124999997px;
+	width: 11.506311192645915%;
+	height: 13.112579451403697%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Vector_23 {
+	position: absolute;
+	left: 208.80656249999998px;
+	top: 297.95484375px;
+	width: 11.902929270773097%;
+	height: 12.087388462740298%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Vector_24 {
+	position: absolute;
+	left: 38.1234375px;
+	top: 234.515859375px;
+	width: 48.78242836347684%;
+	height: 40.044106079671096%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Vector_25 {
+	position: absolute;
+	left: 83.3240625px;
+	top: 289.145390625px;
+	width: 3.1691559153721913%;
+	height: 9.998335845528153%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Vector_26 {
+	position: absolute;
+	left: 206.43937499999998px;
+	top: 289.145390625px;
+	width: 3.1691559153721913%;
+	height: 9.998335845528153%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Group .Vector_27 {
+	position: absolute;
+	left: 362.8875px;
+	top: 343.507265625px;
+	width: 18.05300205387944%;
+	height: 12.158923160361038%;
+}
+.Erroescreen1_Erroescreen1 .Illustration .NoNetwork_1 .Vector_28 {
+	position: absolute;
+	left: 0px;
+	top: 390.6459375px;
+	width: 100%;
+	height: 0.23839764223953724%;
+}
+.Erroescreen1_Erroescreen1 .Button {
+	position: absolute;
+	left: 249.6px;
+	top: 1685.76px;
+	width: 64%;
+	height: 6.157635467980295%;
+	border-radius: 46.08px;
+}
+.Erroescreen1_Erroescreen1 .Button .buttonprimary {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	border-radius: 46.08px;
+}
+.Erroescreen1_Erroescreen1 .Button .buttonprimary .Frame10 {
+	width: 368.64px;
+	height: 168.95999999999998px;
+}
+.Erroescreen1_Erroescreen1 .Button .buttonprimary .Frame10 .Button_1 {
+	width: 100%;
+	font-size: 61.44px;
+	font-weight: 500;
+	line-height: 72px;
+}
+.Erroescreen1_Erroescreen1 .Navigation {
+	position: absolute;
+	left: 0px;
+	top: 168.95999999999998px;
+	width: 100%;
+	height: 5.41871921182266%;
+}
+.Erroescreen1_Erroescreen1 .Navigation .navigationbarlight {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Erroescreen1_Erroescreen1 .Navigation .navigationbarlight .bg {
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.Erroescreen1_Erroescreen1 .Navigation .navigationbarlight .iconarrowleft {
+	position: absolute;
+	left: 61.44px;
+	top: 38.4px;
+	width: 92.16px;
+	height: 92.16px;
+}
+.Erroescreen1_Erroescreen1 .Navigation .navigationbarlight .iconarrowleft .VectorStroke {
+	visibility: hidden;
+	width: 91.6656494140625%;
+	height: 83.33333333333334%;
+}
+.Erroescreen1_Erroescreen1 .Navigation .navigationbarlight .iconarrowleft .Vector3 {
+	width: 29.999796549479168%;
+	height: 60.000101725260414%;
+}
+.Erroescreen1_Erroescreen1 .Navigation .navigationbarlight .Title {
+	width: 0px;
+	height: 84.47999999999999px;
+	font-size: 69.12px;
+	font-weight: 500;
+	line-height: 82.94400146484375px;
+}
+.Erroescreen1_Erroescreen1 .Status {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 5.41871921182266%;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .Notch {
+	width: 1440px;
+	height: 115.19999999999999px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .Notch .Subtract {
+	visibility: hidden;
+	width: 168.95999999999998px;
+	height: 115.19999999999999px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .Notch .Rectangle11 {
+	visibility: hidden;
+	width: 510.71999999999997px;
+	height: 100%;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .Notch .Subtract_1 {
+	visibility: hidden;
+	width: 168.95999999999998px;
+	height: 115.19999999999999px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons {
+	width: 264.96px;
+	height: 53.76px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .NetworkSignalLight {
+	width: 76.8px;
+	height: 53.76px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .NetworkSignalLight .Path {
+	width: 15%;
+	height: 57.14285714285714%;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .NetworkSignalLight .Path_1 {
+	width: 15%;
+	height: 42.857142857142854%;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .NetworkSignalLight .Path_2 {
+	width: 15%;
+	height: 32.142857142857146%;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .NetworkSignalLight .EmptyBar {
+	width: 15%;
+	height: 71.42857142857143%;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .NetworkSignalLight .Path_3 {
+	width: 15%;
+	height: 57.14285714285714%;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .NetworkSignalLight .Path_4 {
+	width: 15%;
+	height: 42.857142857142854%;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .NetworkSignalLight .Path_5 {
+	width: 15%;
+	height: 32.142857142857146%;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .NetworkSignalLight .EmptyBar_1 {
+	visibility: hidden;
+	width: 15%;
+	height: 71.42857142857143%;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .WiFiSignalLight {
+	width: 61.44px;
+	height: 53.76px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .WiFiSignalLight .Path_6 {
+	width: 27.32391357421875%;
+	height: 21.860177176339285%;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .WiFiSignalLight .Path_7 {
+	width: 58.2489013671875%;
+	height: 23.673357282366073%;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .WiFiSignalLight .Path_8 {
+	width: 89.0625%;
+	height: 30.87550571986607%;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .BatteryLight {
+	width: 96px;
+	height: 53.76px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .BatteryLight ._ {
+	visibility: hidden;
+	width: 30.72px;
+	height: 46.08px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .BatteryLight .Subtract_2 {
+	visibility: hidden;
+	width: 88.32px;
+	height: 46.08px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .BatteryLight .Rectangle23 {
+	width: 3.84px;
+	height: 15.36px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .BatteryLight .Battery {
+	visibility: hidden;
+	width: 72.9609375px;
+	height: 30.72px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .BatteryLight .Battery ._100 {
+	width: 72.9609375px;
+	height: 30.72px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .BatteryLight .Battery ._50 {
+	visibility: hidden;
+	width: 32.4515625px;
+	height: 30.72px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .BatteryLight .Battery ._10 {
+	visibility: hidden;
+	width: 11.52px;
+	height: 30.72px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .BatteryLight .Rectangle21Stroke {
+	width: 88.32px;
+	height: 46.08px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .StatusIcons .BatteryLight .Rectangle20 {
+	width: 72.96px;
+	height: 30.72px;
+	background: rgba(31,31,57,1.00);
+	border-radius: 3.84px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .Indicator {
+	width: 23.04px;
+	height: 23.04px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .Indicator .Indicator_1 {
+	visibility: hidden;
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .TimeLight {
+	width: 207.35999999999999px;
+	height: 80.64px;
+	border-radius: 76.8px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .TimeLight ._941 {
+	width: 126.72px;
+	height: 57.599999999999994px;
+}
+.Erroescreen1_Erroescreen1 .Status .statuslight .TimeLight ._941 ._941_1 {
+	width: 109.156875px;
+	height: 42.58125px;
+}

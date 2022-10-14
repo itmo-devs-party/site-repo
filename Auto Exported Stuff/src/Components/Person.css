@@ -1,0 +1,1066 @@
+
+.Person_Person {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+	border-radius: 69.12px;
+}
+.Person_Person .Cell {
+	position: absolute;
+	left: 0px;
+	top: 925.4399999999999px;
+	width: 1440px;
+	height: 875.52px;
+}
+.Person_Person .Cell .Cells {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 875.52px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Person_Person .Cell .Cells .Cell_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 46.08px;
+	width: 1440px;
+	height: 184.32px;
+}
+.Person_Person .Cell .Cells .Cell_1 .Rectangle53 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(255,255,255,1.00);
+	border-radius: 38.4px;
+}
+.Person_Person .Cell .Cells .Cell_1 .Bio {
+	position: absolute;
+	left: 76.8px;
+	top: 46.08px;
+	width: 6.666666666666667%;
+	height: 50%;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 61.44px;
+	font-weight: 500;
+	line-height: 72px;
+}
+.Person_Person .Cell .Cells .Cell_1 .more {
+	visibility: hidden;
+	position: absolute;
+	left: 1121.28px;
+	top: 61.44px;
+	width: 11.466666666666667%;
+	height: 29.166666666666668%;
+	color: rgba(133,133,151,1.00);
+	font-family: Poppins;
+	font-size: 61.44px;
+	font-weight: 400;
+	line-height: 53.76px;
+}
+.Person_Person .Cell .Cells .Cell_1 .iconarrowright {
+	position: absolute;
+	left: 1317.12px;
+	top: 61.44px;
+	width: 4.266666666666667%;
+	height: 33.33333333333333%;
+}
+.Person_Person .Cell .Cells .Cell_1 .iconarrowright .VectorStroke {
+	visibility: hidden;
+	width: 91.6656494140625%;
+	height: 83.33320617675781%;
+}
+.Person_Person .Cell .Cells .Cell_1 .iconarrowright .Vector3 {
+	width: 30.00030517578125%;
+	height: 59.999847412109375%;
+}
+.Person_Person .Cell .Cells .Cell_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 46.08px;
+	width: 1440px;
+	height: 184.32px;
+}
+.Person_Person .Cell .Cells .Cell_2 .Rectangle53_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(255,255,255,1.00);
+	border-radius: 38.4px;
+}
+.Person_Person .Cell .Cells .Cell_2 .Email {
+	position: absolute;
+	left: 76.8px;
+	top: 46.08px;
+	width: 12%;
+	height: 50%;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 61.44px;
+	font-weight: 500;
+	line-height: 72px;
+}
+.Person_Person .Cell .Cells .Cell_2 .more_1 {
+	visibility: hidden;
+	position: absolute;
+	left: 1121.28px;
+	top: 61.44px;
+	width: 11.466666666666667%;
+	height: 29.166666666666668%;
+	color: rgba(133,133,151,1.00);
+	font-family: Poppins;
+	font-size: 61.44px;
+	font-weight: 400;
+	line-height: 53.76px;
+}
+.Person_Person .Cell .Cells .Cell_2 .iconarrowright_1 {
+	position: absolute;
+	left: 1317.12px;
+	top: 61.44px;
+	width: 4.266666666666667%;
+	height: 33.33333333333333%;
+}
+.Person_Person .Cell .Cells .Cell_2 .iconarrowright_1 .VectorStroke_1 {
+	visibility: hidden;
+	width: 91.6656494140625%;
+	height: 83.33320617675781%;
+}
+.Person_Person .Cell .Cells .Cell_2 .iconarrowright_1 .Vector3_1 {
+	width: 30.00030517578125%;
+	height: 59.999847412109375%;
+}
+.Person_Person .Cell .Cells .Cell_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: 46.08px;
+	width: 1440px;
+	height: 184.32px;
+}
+.Person_Person .Cell .Cells .Cell_3 .Rectangle53_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(255,255,255,1.00);
+	border-radius: 38.4px;
+}
+.Person_Person .Cell .Cells .Cell_3 .ISU {
+	position: absolute;
+	left: 76.8px;
+	top: 46.08px;
+	width: 6.666666666666667%;
+	height: 50%;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 61.44px;
+	font-weight: 500;
+	line-height: 72px;
+}
+.Person_Person .Cell .Cells .Cell_3 .more_2 {
+	visibility: hidden;
+	position: absolute;
+	left: 1121.28px;
+	top: 61.44px;
+	width: 11.466666666666667%;
+	height: 29.166666666666668%;
+	color: rgba(133,133,151,1.00);
+	font-family: Poppins;
+	font-size: 61.44px;
+	font-weight: 400;
+	line-height: 53.76px;
+}
+.Person_Person .Cell .Cells .Cell_3 .iconarrowright_2 {
+	position: absolute;
+	left: 1317.12px;
+	top: 61.44px;
+	width: 4.266666666666667%;
+	height: 33.33333333333333%;
+}
+.Person_Person .Cell .Cells .Cell_3 .iconarrowright_2 .VectorStroke_2 {
+	visibility: hidden;
+	width: 91.6656494140625%;
+	height: 83.33320617675781%;
+}
+.Person_Person .Cell .Cells .Cell_3 .iconarrowright_2 .Vector3_2 {
+	width: 30.00030517578125%;
+	height: 59.999847412109375%;
+}
+.Person_Person .Cell .Cells .Cell_4 {
+	position: relative;
+	flex: none;
+	margin-bottom: 46.08px;
+	width: 1440px;
+	height: 184.32px;
+}
+.Person_Person .Cell .Cells .Cell_4 .Rectangle53_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(255,255,255,1.00);
+	border-radius: 38.4px;
+}
+.Person_Person .Cell .Cells .Cell_4 .Scientificresearches {
+	position: absolute;
+	left: 76.8px;
+	top: 46.08px;
+	width: 44.800000000000004%;
+	height: 50%;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 61.44px;
+	font-weight: 500;
+	line-height: 72px;
+}
+.Person_Person .Cell .Cells .Cell_4 .more_3 {
+	visibility: hidden;
+	position: absolute;
+	left: 1121.28px;
+	top: 61.44px;
+	width: 11.466666666666667%;
+	height: 29.166666666666668%;
+	color: rgba(133,133,151,1.00);
+	font-family: Poppins;
+	font-size: 61.44px;
+	font-weight: 400;
+	line-height: 53.76px;
+}
+.Person_Person .Cell .Cells .Cell_4 .iconarrowright_3 {
+	position: absolute;
+	left: 1317.12px;
+	top: 61.44px;
+	width: 4.266666666666667%;
+	height: 33.33333333333333%;
+}
+.Person_Person .Cell .Cells .Cell_4 .iconarrowright_3 .VectorStroke_3 {
+	visibility: hidden;
+	width: 91.6656494140625%;
+	height: 83.33358764648438%;
+}
+.Person_Person .Cell .Cells .Cell_4 .iconarrowright_3 .Vector3_3 {
+	width: 30.00030517578125%;
+	height: 59.999847412109375%;
+}
+.Person_Person .bg {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 702.72px;
+}
+.Person_Person .bg .bg_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 702.72px;
+}
+.Person_Person .Title {
+	position: absolute;
+	left: 76.8px;
+	top: 230.39999999999998px;
+	width: 698.88px;
+	height: 138.24px;
+}
+.Person_Person .Title .KlimenkovHH {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 698.88px;
+	height: 138.24px;
+	color: rgba(244,243,253,1.00);
+	font-family: Poppins;
+	font-size: 92.16px;
+	font-weight: 600;
+	line-height: 108px;
+}
+.Person_Person .Status {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.Person_Person .Status .statuslight {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.Person_Person .Status .statuslight .Notch {
+	width: 1440px;
+	height: 115.19999999999999px;
+}
+.Person_Person .Status .statuslight .Notch .Subtract {
+	visibility: hidden;
+	width: 168.95999999999998px;
+	height: 115.19999999999999px;
+}
+.Person_Person .Status .statuslight .Notch .Rectangle11 {
+	visibility: hidden;
+	width: 510.71999999999997px;
+	height: 100%;
+}
+.Person_Person .Status .statuslight .Notch .Subtract_1 {
+	visibility: hidden;
+	width: 168.95999999999998px;
+	height: 115.19999999999999px;
+}
+.Person_Person .Status .statuslight .StatusIcons {
+	width: 264.96px;
+	height: 53.76px;
+}
+.Person_Person .Status .statuslight .StatusIcons .NetworkSignalLight {
+	width: 76.8px;
+	height: 53.76px;
+}
+.Person_Person .Status .statuslight .StatusIcons .NetworkSignalLight .Path {
+	width: 15%;
+	height: 57.14285714285714%;
+}
+.Person_Person .Status .statuslight .StatusIcons .NetworkSignalLight .Path_1 {
+	width: 15%;
+	height: 42.857142857142854%;
+}
+.Person_Person .Status .statuslight .StatusIcons .NetworkSignalLight .Path_2 {
+	width: 15%;
+	height: 32.142857142857146%;
+}
+.Person_Person .Status .statuslight .StatusIcons .NetworkSignalLight .EmptyBar {
+	width: 15%;
+	height: 71.42857142857143%;
+}
+.Person_Person .Status .statuslight .StatusIcons .NetworkSignalLight .Path_3 {
+	width: 15%;
+	height: 57.14285714285714%;
+}
+.Person_Person .Status .statuslight .StatusIcons .NetworkSignalLight .Path_4 {
+	width: 15%;
+	height: 42.857142857142854%;
+}
+.Person_Person .Status .statuslight .StatusIcons .NetworkSignalLight .Path_5 {
+	width: 15%;
+	height: 32.142857142857146%;
+}
+.Person_Person .Status .statuslight .StatusIcons .NetworkSignalLight .EmptyBar_1 {
+	visibility: hidden;
+	width: 15%;
+	height: 71.42857142857143%;
+}
+.Person_Person .Status .statuslight .StatusIcons .WiFiSignalLight {
+	width: 61.44px;
+	height: 53.76px;
+}
+.Person_Person .Status .statuslight .StatusIcons .WiFiSignalLight .Path_6 {
+	width: 27.32391357421875%;
+	height: 21.860177176339285%;
+}
+.Person_Person .Status .statuslight .StatusIcons .WiFiSignalLight .Path_7 {
+	width: 58.2489013671875%;
+	height: 23.673357282366073%;
+}
+.Person_Person .Status .statuslight .StatusIcons .WiFiSignalLight .Path_8 {
+	width: 89.0625%;
+	height: 30.87550571986607%;
+}
+.Person_Person .Status .statuslight .StatusIcons .BatteryLight {
+	width: 96px;
+	height: 53.76px;
+}
+.Person_Person .Status .statuslight .StatusIcons .BatteryLight ._ {
+	visibility: hidden;
+	width: 30.72px;
+	height: 46.08px;
+}
+.Person_Person .Status .statuslight .StatusIcons .BatteryLight .Subtract_2 {
+	visibility: hidden;
+	width: 88.32px;
+	height: 46.08px;
+}
+.Person_Person .Status .statuslight .StatusIcons .BatteryLight .Rectangle23 {
+	width: 3.84px;
+	height: 15.36px;
+}
+.Person_Person .Status .statuslight .StatusIcons .BatteryLight .Battery {
+	visibility: hidden;
+	width: 72.9609375px;
+	height: 30.72px;
+}
+.Person_Person .Status .statuslight .StatusIcons .BatteryLight .Battery ._100 {
+	width: 72.9609375px;
+	height: 30.72px;
+}
+.Person_Person .Status .statuslight .StatusIcons .BatteryLight .Battery ._50 {
+	visibility: hidden;
+	width: 32.4515625px;
+	height: 30.72px;
+}
+.Person_Person .Status .statuslight .StatusIcons .BatteryLight .Battery ._10 {
+	visibility: hidden;
+	width: 11.52px;
+	height: 30.72px;
+}
+.Person_Person .Status .statuslight .StatusIcons .BatteryLight .Rectangle21Stroke {
+	width: 88.32px;
+	height: 46.08px;
+}
+.Person_Person .Status .statuslight .StatusIcons .BatteryLight .Rectangle20 {
+	width: 72.96px;
+	height: 30.72px;
+	background: rgba(31,31,57,1.00);
+	border-radius: 3.84px;
+}
+.Person_Person .Status .statuslight .Indicator {
+	width: 23.04px;
+	height: 23.04px;
+}
+.Person_Person .Status .statuslight .Indicator .Indicator_1 {
+	visibility: hidden;
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+}
+.Person_Person .Status .statuslight .TimeLight {
+	width: 207.35999999999999px;
+	height: 80.64px;
+	border-radius: 76.8px;
+}
+.Person_Person .Status .statuslight .TimeLight ._941 {
+	width: 126.72px;
+	height: 57.599999999999994px;
+}
+.Person_Person .Status .statuslight .TimeLight ._941 ._941_1 {
+	width: 109.156875px;
+	height: 42.58125px;
+}
+.Person_Person .FooterMessage {
+	position: absolute;
+	left: 1.92px;
+	top: 2691.8399999999997px;
+	width: 1440px;
+	height: 426.24px;
+}
+.Person_Person .FooterMessage .Union {
+	width: 100%;
+	height: 100%;
+}
+.Person_Person .FooterMessage .Search {
+	width: 13.866666666666665%;
+	height: 61.261261261261254%;
+}
+.Person_Person .FooterMessage .Search .Scan {
+	width: 53.84615384615385%;
+	height: 20.588235294117645%;
+	font-size: 42.239999999999995px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.Person_Person .FooterMessage .Search .Ellipse18 {
+	width: 100%;
+	height: 76.47058823529412%;
+	border-radius: 50%;
+}
+.Person_Person .FooterMessage .Search .iconsearch {
+	position: absolute;
+	left: 61.44px;
+	top: 61.44px;
+	width: 38.46153846153847%;
+	height: 29.411764705882355%;
+}
+.Person_Person .FooterMessage .Search .iconsearch .VectorStroke_4 {
+	width: 86.8896484375%;
+	height: 86.8896484375%;
+}
+.Person_Person .FooterMessage .Footeron {
+	position: absolute;
+	left: 119.03999999999999px;
+	top: 57.599999999999994px;
+	width: 8.799999999999999%;
+	height: 53.153153153153156%;
+}
+.Person_Person .FooterMessage .Footeron .Rectangle19 {
+	visibility: hidden;
+	width: 78.78787878787878%;
+	height: 3.389830508474576%;
+}
+.Person_Person .FooterMessage .Footeron .Home {
+	width: 100%;
+	height: 23.728813559322035%;
+	color: rgba(184,184,210,1.00);
+	font-size: 42.239999999999995px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.Person_Person .FooterMessage .Footeron .iconfooterhomeoff {
+	position: absolute;
+	left: 15.36px;
+	top: 53.76px;
+	width: 72.72727272727273%;
+	height: 40.67796610169492%;
+}
+.Person_Person .FooterMessage .Footeron .iconfooterhomeoff .iconfooterhomeon {
+	width: 83.7121875px;
+	height: 82.63453125px;
+}
+.Person_Person .FooterMessage .Footeron .iconfooterhomeoff .iconfooterhomeon .Frame28 {
+	width: 83.7121875px;
+	height: 82.63453125px;
+}
+.Person_Person .FooterMessage .Footeron .iconfooterhomeoff .home_1_fill {
+	width: 75%;
+	height: 78.125%;
+}
+.Person_Person .FooterMessage .Footeroff {
+	position: absolute;
+	left: 368.64px;
+	top: 57.599999999999994px;
+	width: 8.799999999999999%;
+	height: 53.153153153153156%;
+}
+.Person_Person .FooterMessage .Footeroff .Rectangle19_1 {
+	visibility: hidden;
+	width: 78.78787878787878%;
+	height: 3.389830508474576%;
+}
+.Person_Person .FooterMessage .Footeroff .Home_1 {
+	width: 154.54545454545453%;
+	height: 23.728813559322035%;
+	font-size: 42.239999999999995px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.Person_Person .FooterMessage .Footeroff .iconfootercourseoff {
+	position: absolute;
+	left: 15.36px;
+	top: 53.76px;
+	width: 72.72727272727273%;
+	height: 40.67796610169492%;
+}
+.Person_Person .FooterMessage .Footeroff .iconfootercourseoff .Subtract_3 {
+	width: 66.66666666666666%;
+	height: 83.33333333333334%;
+}
+.Person_Person .FooterMessage .Footeroff_1 {
+	position: absolute;
+	left: 940.8px;
+	top: 57.599999999999994px;
+	width: 8.799999999999999%;
+	height: 53.153153153153156%;
+}
+.Person_Person .FooterMessage .Footeroff_1 .Rectangle19_2 {
+	visibility: hidden;
+	width: 78.78787878787878%;
+	height: 3.389830508474576%;
+}
+.Person_Person .FooterMessage .Footeroff_1 .Home_2 {
+	width: 75.75757575757575%;
+	height: 23.728813559322035%;
+	font-size: 42.239999999999995px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.Person_Person .FooterMessage .Footeroff_1 .iconfooternotificationoff {
+	position: absolute;
+	left: 15.36px;
+	top: 53.76px;
+	width: 72.72727272727273%;
+	height: 40.67796610169492%;
+}
+.Person_Person .FooterMessage .Footeroff_1 .iconfooternotificationoff .Vector {
+	width: 100%;
+	height: 100%;
+}
+.Person_Person .FooterMessage .Footeroff_1 .iconfooternotificationoff .message_1_fill {
+	width: 83.33333333333334%;
+	height: 74.78993733723959%;
+}
+.Person_Person .FooterMessage .Footeroff_2 {
+	position: absolute;
+	left: 1190.3999999999999px;
+	top: 57.599999999999994px;
+	width: 8.799999999999999%;
+	height: 53.153153153153156%;
+}
+.Person_Person .FooterMessage .Footeroff_2 .Rectangle19_3 {
+	visibility: hidden;
+	width: 78.78787878787878%;
+	height: 3.389830508474576%;
+}
+.Person_Person .FooterMessage .Footeroff_2 .Home_3 {
+	width: 115.15151515151516%;
+	height: 23.728813559322035%;
+	color: rgba(61,92,255,1.00);
+	font-size: 42.239999999999995px;
+	font-weight: 500;
+	line-height: 53.76px;
+}
+.Person_Person .FooterMessage .Footeroff_2 .iconfooteraccounton {
+	position: absolute;
+	left: 15.36px;
+	top: 53.76px;
+	width: 72.72727272727273%;
+	height: 40.67796610169492%;
+}
+.Person_Person .FooterMessage .Footeroff_2 .iconfooteraccounton .Vector_1 {
+	width: 100%;
+	height: 100%;
+}
+.Person_Person .FooterMessage .Footeroff_2 .iconfooteraccounton .user_2_fill {
+	width: 75%;
+	height: 83.33333333333334%;
+}
+.Person_Person .Rectangle26 {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	top: 610.56px;
+	width: 1440px;
+	height: 184.32px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 38.4px;
+}
+.Person_Person .Todayfact {
+	position: absolute;
+	left: 49.92px;
+	top: 664.3199999999999px;
+	width: 349.44px;
+	height: 76.8px;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 69.12px;
+	font-weight: 500;
+	line-height: 76.8px;
+}
+.Person_Person .Avatar {
+	position: absolute;
+	left: 1048.32px;
+	top: 203.51999999999998px;
+	width: 330.24px;
+	height: 330.24px;
+}
+.Person_Person .Avatar .Avatar_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 330.24px;
+	height: 330.24px;
+}
+.Person_Person .Avatar .Avatar_1 .Ellipse212 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 330.24px;
+	height: 330.24px;
+	background: rgba(234,234,255,1.00);
+	border-radius: 50%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 330.24px;
+	height: 330.24px;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Avatar_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 330.24px;
+	height: 330.24px;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Avatar_2 .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Vector_3 {
+	position: absolute;
+	left: 185.30249999999998px;
+	top: 126.89109375px;
+	width: 5.405443768168604%;
+	height: 0.938167128452035%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Vector_4 {
+	position: absolute;
+	left: 138.7959375px;
+	top: 126.89109375px;
+	width: 5.405443768168604%;
+	height: 0.938167128452035%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group {
+	position: absolute;
+	left: 0px;
+	top: 252.06703124999999px;
+	width: 100.00028388444768%;
+	height: 62.48743811319041%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group .Vector_5 {
+	position: absolute;
+	left: 248.02875px;
+	top: 117.59648437499999px;
+	width: 24.894324314350033%;
+	height: 31.268207749786193%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group .Vector_6 {
+	position: absolute;
+	left: 0px;
+	top: 115.87710937499999px;
+	width: 25.291193645548564%;
+	height: 32.696774310788754%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group .Vector_7 {
+	position: absolute;
+	left: 248.02875px;
+	top: 117.59648437499999px;
+	width: 24.84492856068155%;
+	height: 12.85641758938195%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group .Vector_8 {
+	position: absolute;
+	left: 1.0603125px;
+	top: 113.503125px;
+	width: 25.191834370928046%;
+	height: 14.165955866402108%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group .Vector_9 {
+	position: absolute;
+	left: 0.08437499999999999px;
+	top: 0px;
+	width: 99.32975072177416%;
+	height: 100%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group .Vector_10 {
+	position: absolute;
+	left: 39.39px;
+	top: 75.262265625px;
+	width: 10.438685391631678%;
+	height: 26.625650368044994%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group .Vector_11 {
+	position: absolute;
+	left: 248.02875px;
+	top: 68.38546875px;
+	width: 11.777764529874494%;
+	height: 32.974469114545414%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group .Vector_12 {
+	position: absolute;
+	left: 58.200937499999995px;
+	top: 68.696953125px;
+	width: 5.439778343652503%;
+	height: 30.204449249996877%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group .Vector_13 {
+	position: absolute;
+	left: 246.90937499999998px;
+	top: 67.3509375px;
+	width: 6.849828392338549%;
+	height: 33.75326390773945%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Vector_14 {
+	position: absolute;
+	left: 78.0375px;
+	top: 25.246640624999998px;
+	width: 51.26754405886628%;
+	height: 39.82487168422965%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 {
+	position: absolute;
+	left: 73.85625px;
+	top: 89.00343749999999px;
+	width: 55.270882539970934%;
+	height: 55.3062261537064%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Vector_15 {
+	visibility: hidden;
+	position: absolute;
+	left: 6.0684375px;
+	top: -66.20273437499999px;
+	width: 91.28020750404478%;
+	height: 78.77124723141165%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Group_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Group_2 .Vector_16 {
+	position: absolute;
+	left: 0px;
+	top: 41.163515624999995px;
+	width: 23.03859883407381%;
+	height: 26.00869009519068%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Group_2 .Group_3 {
+	position: absolute;
+	left: 16.6528125px;
+	top: 0px;
+	width: 90.87649913968%;
+	height: 100%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Group_2 .Group_3 .Vector_17 {
+	position: absolute;
+	left: 123.8221875px;
+	top: 41.07703125px;
+	width: 25.351547487170212%;
+	height: 26.056041618010518%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Group_2 .Group_3 .Vector_18 {
+	position: absolute;
+	left: 131.0296875px;
+	top: 54.860156249999996px;
+	width: 13.69961341080189%;
+	height: 14.190186300652655%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Group_2 .Group_3 .Vector_19 {
+	position: absolute;
+	left: 0px;
+	top: 54.890390624999995px;
+	width: 13.683222933104243%;
+	height: 14.174017487982466%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Group_2 .Group_3 .Vector_20 {
+	position: absolute;
+	left: 19.9115625px;
+	top: 0px;
+	width: 69.61770623742454%;
+	height: 100%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Group_2 .Group_3 .Vector_21 {
+	position: absolute;
+	left: 49.39125px;
+	top: 48.762421875px;
+	width: 7.306196730947483%;
+	height: 7.890508906962598%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Group_2 .Group_3 .Vector_22 {
+	position: absolute;
+	left: 93.53156249999999px;
+	top: 48.762421875px;
+	width: 7.306196730947483%;
+	height: 7.890508906962598%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Group_2 .Group_3 .Vector_23 {
+	position: absolute;
+	left: 72.2728125px;
+	top: 44.341171875px;
+	width: 4.815974498677458%;
+	height: 13.19208292804365%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Group_2 .Group_3 .Vector_24 {
+	position: absolute;
+	left: 44.885625px;
+	top: 125.8978125px;
+	width: 31.791309655686927%;
+	height: 18.560770354097%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Group_2 .Group_3 .Group_4 {
+	position: absolute;
+	left: 28.756874999999997px;
+	top: 64.56703125px;
+	width: 57.21350575362286%;
+	height: 8.966761540810852%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Group_2 .Group_3 .Group_4 .Vector_25 {
+	position: absolute;
+	left: 68.8621875px;
+	top: 0px;
+	width: 27.437789566231018%;
+	height: 99.99713778693686%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Group_2 .Group_3 .Group_4 .Vector_26 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 27.437789566231018%;
+	height: 99.99713778693686%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Vector_27 {
+	position: absolute;
+	left: 84.12375px;
+	top: 76.73015625px;
+	width: 12.211407586224608%;
+	height: 6.761258498250945%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Vector_28 {
+	position: absolute;
+	left: 39.183749999999996px;
+	top: 86.920078125px;
+	width: 59.620945581550636%;
+	height: 26.250324017872956%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Vector_29 {
+	position: absolute;
+	left: 75.016875px;
+	top: 98.18859375px;
+	width: 2.907111122524975%;
+	height: 3.7838871365546054%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Vector_30 {
+	position: absolute;
+	left: 57.8446875px;
+	top: 96.65460937499999px;
+	width: 3.779758083155705%;
+	height: 2.8749688814518053%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Vector_31 {
+	position: absolute;
+	left: 93.06375px;
+	top: 100.6790625px;
+	width: 1.0765556383060684%;
+	height: 3.3176863712308062%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Vector_32 {
+	position: absolute;
+	left: 106.9040625px;
+	top: 98.13703124999999px;
+	width: 2.020596317316829%;
+	height: 3.3633696832195956%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_1 .Vector_33 {
+	position: absolute;
+	left: 120.8690625px;
+	top: 97.28953125px;
+	width: 4.25075117491461%;
+	height: 2.9310464301571453%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_5 {
+	position: absolute;
+	left: 2.866875px;
+	top: 288.974765625px;
+	width: 97.58499500363372%;
+	height: 42.721415674963666%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_5 .Group_6 {
+	position: absolute;
+	left: 39.49125px;
+	top: -0.000234375px;
+	width: 73.7317054013248%;
+	height: 100.00016612537482%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_5 .Group_6 .Vector_34 {
+	position: absolute;
+	left: 74.5565625px;
+	top: 16.60875px;
+	width: 7.352082445591275%;
+	height: 7.931808969426337%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_5 .Group_6 .Vector_35 {
+	position: absolute;
+	left: 64.580625px;
+	top: 56.2303125px;
+	width: 4.037845430298439%;
+	height: 15.718922977759172%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_5 .Group_6 .Vector_36 {
+	position: absolute;
+	left: 0px;
+	top: 26.113125px;
+	width: 7.466897085049634%;
+	height: 14.949597645010599%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_5 .Group_6 .Vector_37 {
+	position: absolute;
+	left: 40.4278125px;
+	top: 122.445703125px;
+	width: 10.209822767230087%;
+	height: 6.361096159852216%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_5 .Group_6 .Vector_38 {
+	position: absolute;
+	left: 125.9128125px;
+	top: 102.20390625px;
+	width: 4.286807758471032%;
+	height: 16.31115895513958%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_5 .Group_6 .Vector_39 {
+	position: absolute;
+	left: 186.898125px;
+	top: 120.074765625px;
+	width: 5.74625570127677%;
+	height: 14.890623234920824%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_5 .Group_6 .Vector_40 {
+	position: absolute;
+	left: 157.7925px;
+	top: -0.00046875px;
+	width: 3.063696479017723%;
+	height: 15.70164596747935%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_5 .Group_6 .Vector_41 {
+	position: absolute;
+	left: 149.5809375px;
+	top: 56.33203125px;
+	width: 12.496646307782145%;
+	height: 10.350922658798982%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_5 .Group_6 .Vector_42 {
+	position: absolute;
+	left: 224.6578125px;
+	top: 32.807109374999996px;
+	width: 5.451525338131086%;
+	height: 11.604502654679079%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_5 .Vector_43 {
+	position: absolute;
+	left: 262.4821875px;
+	top: 82.802578125px;
+	width: 18.55045396495699%;
+	height: 4.984757996860231%;
+}
+.Person_Person .Avatar .Avatar_1 .MaskGroup .Group_5 .Vector_44 {
+	position: absolute;
+	left: 0px;
+	top: 79.493671875px;
+	width: 18.3471079188594%;
+	height: 1.480343215024379%;
+}
+.Person_Person .Avatar .Icon {
+	position: absolute;
+	left: 227.0390625px;
+	top: 0px;
+	width: 103.2px;
+	height: 103.2px;
+}
+.Person_Person .Avatar .Icon .Ellipse72 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 103.2px;
+	height: 103.2px;
+	background: rgba(61,92,255,1.00);
+	border-radius: 50%;
+	border: 1px solid rgba(255,255,255,1);
+	box-sizing: border-box;
+}
+.Person_Person .Avatar .Icon .iconcamera {
+	position: absolute;
+	left: 25.8px;
+	top: 25.8px;
+	width: 51.6px;
+	height: 51.6px;
+}
+.Person_Person .Avatar .Icon .iconcamera .Subtract_4 {
+	width: 91.66606104651163%;
+	height: 83.33348473837209%;
+}

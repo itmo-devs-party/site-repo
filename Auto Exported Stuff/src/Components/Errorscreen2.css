@@ -1,0 +1,475 @@
+
+.Errorscreen2_Errorscreen2 {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+	border-radius: 69.12px;
+}
+.Errorscreen2_Errorscreen2 .NoInformationFound {
+	position: absolute;
+	left: 374.4px;
+	top: 1351.6799999999998px;
+	width: 48%;
+	height: 2.3399014778325125%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 61.44px;
+	font-weight: 500;
+	line-height: 73.72800292968749px;
+}
+.Errorscreen2_Errorscreen2 .Wellnofifyyouoncewehavesomethingforyou {
+	position: absolute;
+	left: 307.2px;
+	top: 1455.36px;
+	width: 56.76953125000001%;
+	height: 4.433497536945813%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(184,184,210,1.00);
+	font-family: Poppins;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 54px;
+}
+.Errorscreen2_Errorscreen2 .Frame30 {
+	position: absolute;
+	left: 468.1771875px;
+	top: 844.5290625px;
+	width: 34.975390625%;
+	height: 10.362206069119457%;
+}
+.Errorscreen2_Errorscreen2 .Illustration {
+	position: absolute;
+	left: 412.8px;
+	top: 737.28px;
+	width: 614.4px;
+	height: 614.4px;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations {
+	position: absolute;
+	left: 31.2459375px;
+	top: 130.168125px;
+	width: 89.82879638671875%;
+	height: 57.62756347656251%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Vector {
+	position: absolute;
+	left: 0px;
+	top: 353.15437499999996px;
+	width: 100%;
+	height: 0.25677314466674434%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group {
+	position: absolute;
+	left: 184.3021875px;
+	top: 0.8240624999999999px;
+	width: 51.08747719559301%;
+	height: 99.66458635627059%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group .Vector_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 93.55018902554588%;
+	height: 99.99986716303412%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group .Group_1 {
+	position: absolute;
+	left: 59.10046875px;
+	top: 57.2821875px;
+	width: 51.59616030430286%;
+	height: 48.46662969371117%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group .Group_1 .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 6.432776587055786%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group .Group_1 .Vector_3 {
+	position: absolute;
+	left: -0.00046875px;
+	top: 53.37234375px;
+	width: 100%;
+	height: 6.432776587055786%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group .Group_1 .Vector_4 {
+	position: absolute;
+	left: -0.00046875px;
+	top: 106.74445312499999px;
+	width: 100%;
+	height: 6.432776587055786%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group .Group_1 .Vector_5 {
+	position: absolute;
+	left: -0.00046875px;
+	top: 160.02515624999998px;
+	width: 100%;
+	height: 6.432776587055786%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group .Group_2 {
+	position: absolute;
+	left: 5.819999999999999px;
+	top: 285.5015625px;
+	width: 97.93584768896736%;
+	height: 19.09298919703375%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group .Group_2 .Vector_6 {
+	position: absolute;
+	left: 0px;
+	top: 63.464765625px;
+	width: 5.334159466295472%;
+	height: 5.802793383542344%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group .Group_2 .Vector_7 {
+	position: absolute;
+	left: 14.63859375px;
+	top: 0px;
+	width: 94.69877268329118%;
+	height: 100%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Vector_8 {
+	position: absolute;
+	left: 422.968125px;
+	top: 192.12046875px;
+	width: 23.164351403596388%;
+	height: 21.213936579217727%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Vector_9 {
+	position: absolute;
+	left: 55.832812499999996px;
+	top: 0px;
+	width: 20.754303535574874%;
+	height: 19.004919664890856%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group_3 {
+	position: absolute;
+	left: 1.055625px;
+	top: 114.198046875px;
+	width: 74.31272528375986%;
+	height: 67.67114237902074%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group_3 .Vector_10 {
+	position: absolute;
+	left: 83.95828125px;
+	top: 148.578515625px;
+	width: 17.0259017259055%;
+	height: 37.94836880764637%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group_3 .Vector_11 {
+	position: absolute;
+	left: 256.53234375px;
+	top: 148.578515625px;
+	width: 17.0259017259055%;
+	height: 37.94836880764637%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group_3 .Vector_12 {
+	position: absolute;
+	left: 93.77859375px;
+	top: 91.01390624999999px;
+	width: 54.51385833197136%;
+	height: 61.97337543493082%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group_3 .Vector_13 {
+	position: absolute;
+	left: 156.26203125px;
+	top: 0px;
+	width: 19.33560467266541%;
+	height: 31.150780258811356%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group_3 .Vector_14 {
+	position: absolute;
+	left: 163.8665625px;
+	top: 34.923281249999995px;
+	width: 15.25587997636466%;
+	height: 27.752523992726125%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group_3 .Vector_15 {
+	position: absolute;
+	left: 137.84203125px;
+	top: 139.99734375px;
+	width: 3.541529279590747%;
+	height: 15.91457992798514%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group_3 .Vector_16 {
+	position: absolute;
+	left: 0px;
+	top: 82.87828125px;
+	width: 30.47610122051154%;
+	height: 65.40948792366933%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group_3 .Vector_17 {
+	position: absolute;
+	left: 257.86171874999997px;
+	top: 139.99734375px;
+	width: 3.541529279590747%;
+	height: 15.91457992798514%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group_3 .Vector_18 {
+	position: absolute;
+	left: 285.27px;
+	top: 82.696640625px;
+	width: 30.445356993054546%;
+	height: 65.4474419660194%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group_3 .Vector_19 {
+	position: absolute;
+	left: 4.25625px;
+	top: 101.05617187499999px;
+	width: 12.73793917671759%;
+	height: 6.324239036123835%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group_3 .Vector_20 {
+	position: absolute;
+	left: 13.1746875px;
+	top: 108.647109375px;
+	width: 7.747888191587967%;
+	height: 3.9910436285629602%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group_3 .Vector_21 {
+	position: absolute;
+	left: 37.7690625px;
+	top: 97.29703125px;
+	width: 4.195729866816921%;
+	height: 0.758983027304412%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group_3 .Vector_22 {
+	position: absolute;
+	left: 353.27437499999996px;
+	top: 100.932890625px;
+	width: 12.73793917671759%;
+	height: 6.337835973976048%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group_3 .Vector_23 {
+	position: absolute;
+	left: 364.9134375px;
+	top: 108.615234375px;
+	width: 7.742630814402013%;
+	height: 4.004249287628058%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group_3 .Vector_24 {
+	position: absolute;
+	left: 354.73031249999997px;
+	top: 97.11515625px;
+	width: 4.190015326397405%;
+	height: 0.758983027304412%;
+}
+.Errorscreen2_Errorscreen2 .Illustration .Nonotifcations .Group_3 .Vector_25 {
+	position: absolute;
+	left: 191.611875px;
+	top: 74.292890625px;
+	width: 5.78608646556818%;
+	height: 5.730180017587982%;
+}
+.Errorscreen2_Errorscreen2 .Navigation {
+	position: absolute;
+	left: 0px;
+	top: 168.95999999999998px;
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.Errorscreen2_Errorscreen2 .Navigation .navigationbarlight {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.Errorscreen2_Errorscreen2 .Navigation .navigationbarlight .bg {
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.Errorscreen2_Errorscreen2 .Navigation .navigationbarlight .iconarrowleft {
+	position: absolute;
+	left: 61.44px;
+	top: 38.4px;
+	width: 92.16px;
+	height: 92.16px;
+}
+.Errorscreen2_Errorscreen2 .Navigation .navigationbarlight .iconarrowleft .VectorStroke {
+	visibility: hidden;
+	width: 91.6656494140625%;
+	height: 83.33333333333334%;
+}
+.Errorscreen2_Errorscreen2 .Navigation .navigationbarlight .iconarrowleft .Vector3 {
+	width: 29.999796549479168%;
+	height: 60.000101725260414%;
+}
+.Errorscreen2_Errorscreen2 .Navigation .navigationbarlight .Title {
+	width: 0px;
+	height: 84.47999999999999px;
+	font-size: 69.12px;
+	font-weight: 500;
+	line-height: 82.94400146484375px;
+}
+.Errorscreen2_Errorscreen2 .Status {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 168.95999999999998px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .Notch {
+	width: 1440px;
+	height: 115.19999999999999px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .Notch .Subtract {
+	visibility: hidden;
+	width: 168.95999999999998px;
+	height: 115.19999999999999px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .Notch .Rectangle11 {
+	visibility: hidden;
+	width: 510.71999999999997px;
+	height: 100%;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .Notch .Subtract_1 {
+	visibility: hidden;
+	width: 168.95999999999998px;
+	height: 115.19999999999999px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons {
+	width: 264.96px;
+	height: 53.76px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .NetworkSignalLight {
+	width: 76.8px;
+	height: 53.76px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .NetworkSignalLight .Path {
+	width: 15%;
+	height: 57.14285714285714%;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .NetworkSignalLight .Path_1 {
+	width: 15%;
+	height: 42.857142857142854%;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .NetworkSignalLight .Path_2 {
+	width: 15%;
+	height: 32.142857142857146%;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .NetworkSignalLight .EmptyBar {
+	width: 15%;
+	height: 71.42857142857143%;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .NetworkSignalLight .Path_3 {
+	width: 15%;
+	height: 57.14285714285714%;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .NetworkSignalLight .Path_4 {
+	width: 15%;
+	height: 42.857142857142854%;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .NetworkSignalLight .Path_5 {
+	width: 15%;
+	height: 32.142857142857146%;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .NetworkSignalLight .EmptyBar_1 {
+	visibility: hidden;
+	width: 15%;
+	height: 71.42857142857143%;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .WiFiSignalLight {
+	width: 61.44px;
+	height: 53.76px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .WiFiSignalLight .Path_6 {
+	width: 27.32391357421875%;
+	height: 21.860177176339285%;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .WiFiSignalLight .Path_7 {
+	width: 58.2489013671875%;
+	height: 23.673357282366073%;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .WiFiSignalLight .Path_8 {
+	width: 89.0625%;
+	height: 30.87550571986607%;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .BatteryLight {
+	width: 96px;
+	height: 53.76px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .BatteryLight ._ {
+	visibility: hidden;
+	width: 30.72px;
+	height: 46.08px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .BatteryLight .Subtract_2 {
+	visibility: hidden;
+	width: 88.32px;
+	height: 46.08px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .BatteryLight .Rectangle23 {
+	width: 3.84px;
+	height: 15.36px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .BatteryLight .Battery {
+	visibility: hidden;
+	width: 72.9609375px;
+	height: 30.72px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .BatteryLight .Battery ._100 {
+	width: 72.9609375px;
+	height: 30.72px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .BatteryLight .Battery ._50 {
+	visibility: hidden;
+	width: 32.4515625px;
+	height: 30.72px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .BatteryLight .Battery ._10 {
+	visibility: hidden;
+	width: 11.52px;
+	height: 30.72px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .BatteryLight .Rectangle21Stroke {
+	width: 88.32px;
+	height: 46.08px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .StatusIcons .BatteryLight .Rectangle20 {
+	width: 72.96px;
+	height: 30.72px;
+	background: rgba(31,31,57,1.00);
+	border-radius: 3.84px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .Indicator {
+	width: 23.04px;
+	height: 23.04px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .Indicator .Indicator_1 {
+	visibility: hidden;
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .TimeLight {
+	width: 207.35999999999999px;
+	height: 80.64px;
+	border-radius: 76.8px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .TimeLight ._941 {
+	width: 126.72px;
+	height: 57.599999999999994px;
+}
+.Errorscreen2_Errorscreen2 .Status .statuslight .TimeLight ._941 ._941_1 {
+	width: 109.15640624999999px;
+	height: 42.58125px;
+}

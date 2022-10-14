@@ -1,0 +1,503 @@
+
+.Buildingsrating_Buildingsrating {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+	border-radius: 69.12px;
+}
+.Buildingsrating_Buildingsrating .Model {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 3118.08px;
+}
+.Buildingsrating_Buildingsrating .Model .Rectangle35 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 3118.08px;
+	background: rgba(31,31,57,1.00);
+}
+.Buildingsrating_Buildingsrating .Button {
+	position: absolute;
+	left: 633.6px;
+	top: 2369.2799999999997px;
+	width: 168.95999999999998px;
+	height: 168.95999999999998px;
+}
+.Buildingsrating_Buildingsrating .Button .Elementclose {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 168.95999999999998px;
+	height: 168.95999999999998px;
+}
+.Buildingsrating_Buildingsrating .Button .Elementclose .Group10 {
+	width: 100%;
+	height: 100%;
+}
+.Buildingsrating_Buildingsrating .Button .Elementclose .Group10 .Ellipse21 {
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	border: 0.5px solid rgba(255,255,255,1);
+}
+.Buildingsrating_Buildingsrating .Button .Elementclose .Union {
+	width: 36.36363636363637%;
+	height: 36.36363636363637%;
+}
+.Buildingsrating_Buildingsrating .Overlay {
+	position: absolute;
+	left: 161.28px;
+	top: 579.84px;
+	width: 1117.44px;
+	height: 1697.28px;
+}
+.Buildingsrating_Buildingsrating .Overlay .BG {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1117.44px;
+	height: 1697.28px;
+	border-radius: 46.08px;
+}
+.Buildingsrating_Buildingsrating .Overlay .BG .BG_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1117.44px;
+	height: 1697.28px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 46.08px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Learnedtoday {
+	position: absolute;
+	left: 72.96px;
+	top: 445.44px;
+	width: 334.08px;
+	height: 188.16px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Learnedtoday .Learnedtoday_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 334.08px;
+	height: 76.8px;
+	color: rgba(133,133,151,1.00);
+	font-family: Poppins;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 76.8px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Learnedtoday .time {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 34px;
+	top: 99.84px;
+	width: 203.51999999999998px;
+	height: 88.32px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Learnedtoday .time .Frame13 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 195.84px;
+	height: 76.8px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: flex-end;
+}
+.Buildingsrating_Buildingsrating .Overlay .Learnedtoday .time .Frame13 ._46 {
+	position: relative;
+	flex: none;
+	margin-right: 7.68px;
+	width: 50.98039215686274%;
+	height: 100%;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 76.8px;
+	font-weight: 500;
+	line-height: 76.8px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Learnedtoday .time .Frame13 .min {
+	position: relative;
+	flex: none;
+	margin-right: 7.68px;
+	width: 45.09803921568628%;
+	height: 70%;
+	color: rgba(133,133,151,1.00);
+	font-family: Poppins;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 53.76px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Totallyhours {
+	position: absolute;
+	left: 618.24px;
+	top: 445.44px;
+	width: 288px;
+	height: 188.16px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Totallyhours .totallyhours {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 288px;
+	height: 76.8px;
+	color: rgba(133,133,151,1.00);
+	font-family: Poppins;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 76.8px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Totallyhours .time_1 {
+	position: absolute;
+	left: 0px;
+	top: 99.84px;
+	width: 203.51999999999998px;
+	height: 88.32px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Totallyhours .time_1 .Frame13_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 230.39999999999998px;
+	height: 76.8px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: flex-end;
+}
+.Buildingsrating_Buildingsrating .Overlay .Totallyhours .time_1 .Frame13_1 ._46_1 {
+	position: relative;
+	flex: none;
+	margin-right: 7.68px;
+	width: 65%;
+	height: 100%;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 76.8px;
+	font-weight: 500;
+	line-height: 76.8px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Totallyhours .time_1 .Frame13_1 .min_1 {
+	position: relative;
+	flex: none;
+	margin-right: 7.68px;
+	width: 31.666666666666664%;
+	height: 70%;
+	color: rgba(133,133,151,1.00);
+	font-family: Poppins;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 53.76px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Totallydays {
+	position: absolute;
+	left: 72.96px;
+	top: 733.4399999999999px;
+	width: 276.48px;
+	height: 188.16px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Totallydays .Totallydays_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 276.48px;
+	height: 76.8px;
+	color: rgba(133,133,151,1.00);
+	font-family: Poppins;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 76.8px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Totallydays .time_2 {
+	position: absolute;
+	left: 0px;
+	top: 99.84px;
+	width: 203.51999999999998px;
+	height: 88.32px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Totallydays .time_2 .Frame13_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 272.64px;
+	height: 76.8px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: flex-end;
+}
+.Buildingsrating_Buildingsrating .Overlay .Totallydays .time_2 .Frame13_2 ._46_2 {
+	position: relative;
+	flex: none;
+	margin-right: 7.68px;
+	width: 54.929577464788736%;
+	height: 100%;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 76.8px;
+	font-weight: 500;
+	line-height: 76.8px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Totallydays .time_2 .Frame13_2 .min_2 {
+	position: relative;
+	flex: none;
+	margin-right: 7.68px;
+	width: 42.25352112676056%;
+	height: 70%;
+	color: rgba(133,133,151,1.00);
+	font-family: Poppins;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 53.76px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Text {
+	position: absolute;
+	left: 72.96px;
+	top: 88.32px;
+	width: 817.92px;
+	height: 218.88px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Text .Thanksfortheanswering {
+	position: absolute;
+	left: 0px;
+	top: 138.24px;
+	width: 675.8399999999999px;
+	height: 80.64px;
+	color: rgba(133,133,151,1.00);
+	font-family: Poppins;
+	font-size: 53.76px;
+	font-weight: 400;
+	line-height: 63px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Text .Leaveyourrating {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 817.92px;
+	height: 138.24px;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 92.16px;
+	font-weight: 600;
+	line-height: 108px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Button_1 {
+	position: absolute;
+	left: 61.44px;
+	top: 1451.52px;
+	width: 994.56px;
+	height: 192px;
+	border-radius: 46.08px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Button_1 .buttonprimary {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 994.56px;
+	height: 192px;
+	border-radius: 46.08px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Button_1 .buttonprimary .Frame10 {
+	width: 299.52px;
+	height: 168.95999999999998px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Button_1 .buttonprimary .Frame10 .Button_2 {
+	width: 100%;
+	font-size: 61.44px;
+	font-weight: 500;
+	line-height: 72px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Text_1 {
+	position: absolute;
+	left: 426.24px;
+	top: 1056px;
+	width: 264.96px;
+	height: 76.8px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Text_1 .Totalrating {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 264.96px;
+	height: 76.8px;
+	color: rgba(31,31,57,1.00);
+	font-family: Poppins;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 76.8px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Recorder {
+	position: absolute;
+	left: 61.44px;
+	top: 1198.08px;
+	width: 994.56px;
+	height: 107.52px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Recorder .Recorder_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 994.56px;
+	height: 107.52px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+}
+.Buildingsrating_Buildingsrating .Overlay .Recorder .Recorder_1 .Group9 {
+	position: relative;
+	flex: none;
+	width: 107.52px;
+	height: 107.52px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Recorder .Recorder_1 .Group9 .Ellipse20 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 107.52px;
+	height: 107.52px;
+	background: rgba(61,92,255,1.00);
+	border-radius: 50%;
+}
+.Buildingsrating_Buildingsrating .Overlay .Recorder .Recorder_1 .Group9 ._1 {
+	position: absolute;
+	left: 46.08px;
+	top: 19.2px;
+	width: 15.36px;
+	height: 76.8px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 76.8px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Recorder .Recorder_1 .Group9_1 {
+	position: relative;
+	flex: none;
+	width: 107.52px;
+	height: 107.52px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Recorder .Recorder_1 .Group9_1 .Ellipse20_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 107.52px;
+	height: 107.52px;
+	background: rgba(61,92,255,1.00);
+	border-radius: 50%;
+}
+.Buildingsrating_Buildingsrating .Overlay .Recorder .Recorder_1 .Group9_1 ._2 {
+	position: absolute;
+	left: 42.239999999999995px;
+	top: 19.2px;
+	width: 26.88px;
+	height: 76.8px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 76.8px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Recorder .Recorder_1 .Group9_2 {
+	position: relative;
+	flex: none;
+	width: 107.52px;
+	height: 107.52px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Recorder .Recorder_1 .Group9_2 .Ellipse20_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 107.52px;
+	height: 107.52px;
+	background: rgba(61,92,255,1.00);
+	border-radius: 50%;
+}
+.Buildingsrating_Buildingsrating .Overlay .Recorder .Recorder_1 .Group9_2 ._3 {
+	position: absolute;
+	left: 38.4px;
+	top: 19.2px;
+	width: 30.72px;
+	height: 76.8px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 76.8px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Recorder .Recorder_1 .Group9_3 {
+	position: relative;
+	flex: none;
+	width: 107.52px;
+	height: 107.52px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Recorder .Recorder_1 .Group9_3 .Ellipse20_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 107.52px;
+	height: 107.52px;
+	background: rgba(61,92,255,1.00);
+	border-radius: 50%;
+}
+.Buildingsrating_Buildingsrating .Overlay .Recorder .Recorder_1 .Group9_3 ._4 {
+	position: absolute;
+	left: 38.4px;
+	top: 19.2px;
+	width: 30.72px;
+	height: 76.8px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 76.8px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Recorder .Recorder_1 .Group9_4 {
+	position: relative;
+	flex: none;
+	width: 107.52px;
+	height: 107.52px;
+}
+.Buildingsrating_Buildingsrating .Overlay .Recorder .Recorder_1 .Group9_4 .Ellipse20_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 107.52px;
+	height: 107.52px;
+	background: rgba(234,234,255,1.00);
+	border-radius: 50%;
+}
+.Buildingsrating_Buildingsrating .Overlay .Recorder .Recorder_1 .Group9_4 ._5 {
+	position: absolute;
+	left: 38.4px;
+	top: 19.2px;
+	width: 30.72px;
+	height: 76.8px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 46.08px;
+	font-weight: 400;
+	line-height: 76.8px;
+}

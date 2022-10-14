@@ -1,0 +1,49 @@
+
+.buttonsecondary_buttonsecondary {
+	width: 327px;
+	height: 50px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 12px;
+	border: 0.5px solid rgba(61.16404116153717,92.17780977487564,255,1);
+	box-sizing: border-box;
+}
+.buttonsecondary_buttonsecondary .Frame9 {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 69px;
+	height: 40px;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.buttonsecondary_buttonsecondary .Frame9 .image {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 16px;
+	height: 16px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.buttonsecondary_buttonsecondary .Frame9 .Button {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(61,92,255,1.00);
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 18.75px;
+}

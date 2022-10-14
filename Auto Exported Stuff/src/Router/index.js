@@ -1,0 +1,145 @@
+import React from 'react';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import HomePage from '../Components/index';
+import Empty9 from '../Components/Empty9';
+import Erroescreen1 from '../Components/Erroescreen1';
+import Errorscreen2 from '../Components/Errorscreen2';
+import Message5 from '../Components/Message5';
+import People from '../Components/People';
+import Person from '../Components/Person';
+import Mycourse from '../Components/Mycourse';
+import Buildingsrating from '../Components/Buildingsrating';
+import Initialscreen from '../Components/Initialscreen';
+import Search from '../Components/Search';
+import Buildings from '../Components/Buildings';
+import Home from '../Components/Home';
+import Iconpreviewcloseone from '../Components/iconpreviewcloseone';
+import Formpassword from '../Components/Formpassword';
+import Iconsearch from '../Components/iconsearch';
+import Iconfooterhomeon from '../Components/iconfooterhomeon';
+import Footeron from '../Components/Footeron';
+import Iconfootercourseoff from '../Components/iconfootercourseoff';
+import Footeroff from '../Components/Footeroff';
+import Iconfooternotificationoff from '../Components/iconfooternotificationoff';
+import Iconfooteraccountoff from '../Components/iconfooteraccountoff';
+import Footerhome from '../Components/Footerhome';
+import Elementclose from '../Components/Elementclose';
+import Iconpeople from '../Components/iconpeople';
+import Courselist from '../Components/Courselist';
+import IconFavoritesoff from '../Components/iconFavoritesoff';
+import IconFavoriteson from '../Components/iconFavoriteson';
+import Tagson from '../Components/tagson';
+import Tagsoff from '../Components/tagsoff';
+import Iconfilter from '../Components/iconfilter';
+import Icondeletetwo from '../Components/icondeletetwo';
+import Search_1 from '../Components/Search_1';
+import Tabon from '../Components/tabon';
+import Taboff from '../Components/taboff';
+import Title from '../Components/Title';
+import DarkModeYES from '../Components/DarkModeYES';
+import Statusdark from '../Components/statusdark';
+import Statuslight from '../Components/statuslight';
+import ElementscheckBoxoff from '../Components/elementscheckBoxoff';
+import Iconarrowleft from '../Components/iconarrowleft';
+import Navigationbarlight from '../Components/navigationbarlight';
+import Navigationbardark from '../Components/navigationbardark';
+import Iconcheck from '../Components/iconcheck';
+import Iconcheck_1 from '../Components/iconcheck_1';
+import Formemail from '../Components/Formemail';
+import Buttonsecondary from '../Components/buttonsecondary';
+import Buttonprimary from '../Components/buttonprimary';
+import ElementscheckBoxon from '../Components/elementscheckBoxon';
+import Iconarrowright from '../Components/iconarrowright';
+import Iconarrowdown from '../Components/iconarrowdown';
+import Icondeleteone from '../Components/icondeleteone';
+import Iconmessageone from '../Components/iconmessageone';
+import Iconfootercourseon from '../Components/iconfootercourseon';
+import Iconfooteraccounton from '../Components/iconfooteraccounton';
+import Iconfooternotificationon from '../Components/iconfooternotificationon';
+import Iconfooterhomeoff from '../Components/iconfooterhomeoff';
+import Iconclose from '../Components/iconclose';
+import Iconmessage from '../Components/iconmessage';
+import Icontime from '../Components/icontime';
+import Iconbankcard from '../Components/iconbankcard';
+import Iconcamera from '../Components/iconcamera';
+import Secondary from '../Components/secondary';
+import Cell from '../Components/Cell';
+import Tab from '../Components/tab';
+import Time from '../Components/time';
+import XAppIconsCamera from '../Components/xAppIconsCamera';
+const RouterDOM = () => {
+	return (
+		<Router>
+			<Switch>
+				<Route exact path="/"><HomePage /></Route>
+				<Route exact path="/empty9"><Empty9 /></Route>
+				<Route exact path="/erroescreen1"><Erroescreen1 /></Route>
+				<Route exact path="/errorscreen2"><Errorscreen2 /></Route>
+				<Route exact path="/message5"><Message5 /></Route>
+				<Route exact path="/people"><People /></Route>
+				<Route exact path="/person"><Person /></Route>
+				<Route exact path="/mycourse"><Mycourse /></Route>
+				<Route exact path="/buildingsrating"><Buildingsrating /></Route>
+				<Route exact path="/initialscreen"><Initialscreen /></Route>
+				<Route exact path="/search"><Search /></Route>
+				<Route exact path="/buildings"><Buildings /></Route>
+				<Route exact path="/home"><Home /></Route>
+				<Route exact path="/iconpreviewcloseone"><Iconpreviewcloseone /></Route>
+				<Route exact path="/formpassword"><Formpassword /></Route>
+				<Route exact path="/iconsearch"><Iconsearch /></Route>
+				<Route exact path="/iconfooterhomeon"><Iconfooterhomeon /></Route>
+				<Route exact path="/footeron"><Footeron /></Route>
+				<Route exact path="/iconfootercourseoff"><Iconfootercourseoff /></Route>
+				<Route exact path="/footeroff"><Footeroff /></Route>
+				<Route exact path="/iconfooternotificationoff"><Iconfooternotificationoff /></Route>
+				<Route exact path="/iconfooteraccountoff"><Iconfooteraccountoff /></Route>
+				<Route exact path="/footerhome"><Footerhome /></Route>
+				<Route exact path="/elementclose"><Elementclose /></Route>
+				<Route exact path="/iconpeople"><Iconpeople /></Route>
+				<Route exact path="/courselist"><Courselist /></Route>
+				<Route exact path="/iconfavoritesoff"><IconFavoritesoff /></Route>
+				<Route exact path="/iconfavoriteson"><IconFavoriteson /></Route>
+				<Route exact path="/tagson"><Tagson /></Route>
+				<Route exact path="/tagsoff"><Tagsoff /></Route>
+				<Route exact path="/iconfilter"><Iconfilter /></Route>
+				<Route exact path="/icondeletetwo"><Icondeletetwo /></Route>
+				<Route exact path="/search_1"><Search_1 /></Route>
+				<Route exact path="/tabon"><Tabon /></Route>
+				<Route exact path="/taboff"><Taboff /></Route>
+				<Route exact path="/title"><Title /></Route>
+				<Route exact path="/darkmodeyes"><DarkModeYES /></Route>
+				<Route exact path="/statusdark"><Statusdark /></Route>
+				<Route exact path="/statuslight"><Statuslight /></Route>
+				<Route exact path="/elementscheckboxoff"><ElementscheckBoxoff /></Route>
+				<Route exact path="/iconarrowleft"><Iconarrowleft /></Route>
+				<Route exact path="/navigationbarlight"><Navigationbarlight /></Route>
+				<Route exact path="/navigationbardark"><Navigationbardark /></Route>
+				<Route exact path="/iconcheck"><Iconcheck /></Route>
+				<Route exact path="/iconcheck_1"><Iconcheck_1 /></Route>
+				<Route exact path="/formemail"><Formemail /></Route>
+				<Route exact path="/buttonsecondary"><Buttonsecondary /></Route>
+				<Route exact path="/buttonprimary"><Buttonprimary /></Route>
+				<Route exact path="/elementscheckboxon"><ElementscheckBoxon /></Route>
+				<Route exact path="/iconarrowright"><Iconarrowright /></Route>
+				<Route exact path="/iconarrowdown"><Iconarrowdown /></Route>
+				<Route exact path="/icondeleteone"><Icondeleteone /></Route>
+				<Route exact path="/iconmessageone"><Iconmessageone /></Route>
+				<Route exact path="/iconfootercourseon"><Iconfootercourseon /></Route>
+				<Route exact path="/iconfooteraccounton"><Iconfooteraccounton /></Route>
+				<Route exact path="/iconfooternotificationon"><Iconfooternotificationon /></Route>
+				<Route exact path="/iconfooterhomeoff"><Iconfooterhomeoff /></Route>
+				<Route exact path="/iconclose"><Iconclose /></Route>
+				<Route exact path="/iconmessage"><Iconmessage /></Route>
+				<Route exact path="/icontime"><Icontime /></Route>
+				<Route exact path="/iconbankcard"><Iconbankcard /></Route>
+				<Route exact path="/iconcamera"><Iconcamera /></Route>
+				<Route exact path="/secondary"><Secondary /></Route>
+				<Route exact path="/cell"><Cell /></Route>
+				<Route exact path="/tab"><Tab /></Route>
+				<Route exact path="/time"><Time /></Route>
+				<Route exact path="/xappiconscamera"><XAppIconsCamera /></Route>
+			</Switch>
+		</Router>
+	);
+}
+export default RouterDOM;
