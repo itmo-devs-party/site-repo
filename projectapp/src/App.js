@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Brace yourself
+          Aboba
         </a>
       </header>
     </div>
