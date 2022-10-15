@@ -1,15 +1,15 @@
 import React from 'react'
 import './NavBar.scss';
-import {images} from '../../constants';
- 
+// import {images} from '../../constants';
+
 
 function NavBar() {
   return (
     <nav className = "app__navbar">
-      <div>
-        <img src = {images.AppLogo} alt = "logo"/>
+      <div className='app__navbar-logo'>
+        {/* <img src = {images.AppLogo} alt = "logo"/> */}
       </div>
-      <ul className="">
+      <ul className="app__navbar-links">
         {['Home', 'Buildings','Scan', 'Map', 'People'].map((item)=>(
           <li key = {`link-${item}`}>
             <div/>
@@ -17,6 +17,7 @@ function NavBar() {
           </li>
         ))}
       </ul>
+      
     </nav>
   )
 }
