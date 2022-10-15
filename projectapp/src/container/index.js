@@ -1,0 +1,7 @@
+export {default as Footer} from './Footer/Footer'
+export {default as Header} from './Header/Header'
+export {default as NavBar} from './NavBar/NavBar'
+export {default as Menu_people} from './Menu_people/Menu_people'
+export {default as Menu_buildings} from './Menu_buildings/Menu_buildings'
+export {default as Menu_home} from './Menu_home/Menu_home'
+export {default as Menu_map} from './Menu_map/Menu_map'

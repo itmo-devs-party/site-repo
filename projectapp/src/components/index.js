@@ -1,0 +1,1 @@
+export {default as StartPageIcon} from './StartPageIcon/StartPageIcon';
