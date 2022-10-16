@@ -3,7 +3,7 @@ import React from 'react';
 import './App.css';
 import './App.scss';
 // eslint-disable-next-line
-import { StartPageIcon, BottomNavigation} from './components';
+import { StartPageIcon, BottomNavigation, MainPageText} from './components';
 import { NavBar } from './container';
 import { images } from './constants';
 
@@ -20,13 +20,8 @@ function App(){
           This is what we have for you for today</h3>  
           </div>
       <div>
-      {/* <StartPageIcon/> */}
-      {/* <BottomNavigation/> */}
+        <MainPageText/>
       </div>
-      <div>
-        <h3>
-          This is not what you wait for</h3>  
-        </div>
   </div>
   );
 }
