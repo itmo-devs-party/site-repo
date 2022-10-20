@@ -1,5 +1,6 @@
 import * as React from "react";
 import './MainPageText.scss'
+
 function MainPageText() {
   return (
     <div class="main__page-class">
