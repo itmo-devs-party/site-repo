@@ -2,10 +2,10 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 import './App.scss';
-// eslint-disable-next-line
 import { NavBar } from './container';
-import Buildings from './pages/Buildings'
-import Home from './pages/Home'
+
+// eslint-disable-next-line
+import {Home, Buildings} from './pages';
 
 function App() {
 

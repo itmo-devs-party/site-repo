@@ -1,8 +1,10 @@
 import React from "react";
-import { StartPageIcon, BottomNavigation, MainPageText, MainPageCarousel } from '../components';
-import { images } from '../constants';
+// eslint-disable-next-line
+import { StartPageIcon, BottomNavigation, MainPageText, MainPageCarousel } from '../../components';
+import { images } from '../../constants';
+import './Home.scss'
 
-const Buldings = () => {
+const Home = () => {
     return (
         <div>
             <div className='main__page-app'>
@@ -21,4 +23,4 @@ const Buldings = () => {
         </div>
     );
 };
-export default Buldings;
+export default Home;
