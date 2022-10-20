@@ -1,31 +1,25 @@
 import React from 'react';
-
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 import './App.scss';
 // eslint-disable-next-line
-import { StartPageIcon, BottomNavigation, MainPageText, MainPageCarousel} from './components';
 import { NavBar } from './container';
-import { images } from './constants';
+import Buildings from './pages/Buildings'
+import Home from './pages/Home'
 
-function App(){
-  
+function App() {
+
   return (
+    <Router>
       <div className='main__page-container'>
-      <NavBar/>      
-      <div className='main__page-app'>
-        <h1 className='main__page-head-text'>
-        <img src = {images.AppLogo} alt = "logo"/>
-        Hello there</h1>
-        <h3 className='main__page__header-subtext'>
-          This is what we have for you for today</h3>  
-          </div>
-      <div className='main__page_text-div'>
-        <MainPageText/>
+        <NavBar />
+        <Routes>
+          <Route path='/Buildings' element={<Buildings />} />
+          <Route path='/' element={<Home />} />
+          <Route path='/Home' element={<Home />} />
+        </Routes>
       </div>
-      <div className='main__page-carousel'>
-        <MainPageCarousel/>
-      </div>
-  </div>
+    </Router>
   );
 }
 

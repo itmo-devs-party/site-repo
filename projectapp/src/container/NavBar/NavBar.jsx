@@ -13,7 +13,7 @@ function NavBar() {
         {['Home', 'Buildings','Scan', 'Map', 'People'].map((item)=>(
           <li key = {`link-${item}`}>
             <div/>
-            <a href={`#${item}`}>{item}</a>
+            <a href={`/${item}`}>{item}</a>
           </li>
         ))}
       </ul>
