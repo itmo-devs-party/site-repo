@@ -3,7 +3,7 @@ import React from 'react';
 import './App.css';
 import './App.scss';
 // eslint-disable-next-line
-import { StartPageIcon, BottomNavigation, MainPageText} from './components';
+import { StartPageIcon, BottomNavigation, MainPageText, MainPageCarousel} from './components';
 import { NavBar } from './container';
 import { images } from './constants';
 
@@ -19,8 +19,11 @@ function App(){
         <h3>
           This is what we have for you for today</h3>  
           </div>
-      <div>
+      <div className='app__main_page_text_div'>
         <MainPageText/>
+      </div>
+      <div>
+        <MainPageCarousel/>
       </div>
   </div>
   );
