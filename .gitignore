@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/projectapp/node_modules
 
 # testing
 /coverage
@@ -18,7 +19,7 @@
 .env.test.local
 .env.production.local
 
-/projectapp/.package-lock.json
+package-lock.json
 .package
 
 
