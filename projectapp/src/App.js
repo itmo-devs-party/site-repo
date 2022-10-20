@@ -16,13 +16,13 @@ function App(){
         <h1 className='head-text'>
         <img src = {images.AppLogo} alt = "logo"/>
         Hello there</h1>
-        <h3>
+        <h3 className='app__header-subtext'>
           This is what we have for you for today</h3>  
           </div>
       <div className='app__main_page_text_div'>
         <MainPageText/>
       </div>
-      <div>
+      <div className='app__main__page-carousel'>
         <MainPageCarousel/>
       </div>
   </div>
