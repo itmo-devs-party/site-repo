@@ -1,0 +1,98 @@
+.main__page__carousel--maindiv{ 
+	background-color:rgba(255, 255, 255, 1);
+	width:371px;
+	height:260px;
+	position:relative;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+.main__page__carousel--subdiv { 
+	width:375px;
+	height:180px;
+	position:absolute;
+	left:-2px;
+	top:16px;
+    
+    
+}
+.main__page__carousel--images { 
+	width:1001px;
+	height:180px;
+	position:absolute;
+	left:24px;
+	top:0px;
+    
+}
+.main__page__carousel--image-1 { 
+	background-color:rgba(144.00000661611557, 124.00000020861626, 255, 1);
+    
+	width:323px;
+	height:180px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:16px;
+	border-top-right-radius:16px;
+	border-bottom-left-radius:16px;
+	border-bottom-right-radius:16px;
+}
+.main__page__carousel--image-2 { 
+	background-color:rgba(132.34090983867645, 110.24017095565796, 255, 1);
+	width:323px;
+	height:180px;
+	position:absolute;
+	left:339px;
+	top:0px;
+	border-top-left-radius:16px;
+	border-top-right-radius:16px;
+	border-bottom-left-radius:16px;
+	border-bottom-right-radius:16px;
+}
+.main__page__carousel--image-3 { 
+	background-color:rgba(123.0000002682209, 97.00000181794167, 255, 1);
+	width:323px;
+	height:180px;
+	position:absolute;
+	left:678px;
+	top:0px;
+	border-top-left-radius:16px;
+	border-top-right-radius:16px;
+	border-bottom-left-radius:16px;
+	border-bottom-right-radius:16px;
+}
+.main__page__carousel--dots { 
+	width:327px;
+	height:40px;
+	position:absolute;
+	left:22px;
+	top:204px;
+}
+.main__page__carousel--dot-1 { 
+	border-radius:500px;
+	background-color:rgba(0, 0, 0, 1);
+	width:8px;
+	height:8px;
+	position:absolute;
+	left:143.5px;
+	top:16px;
+}
+.main__page__carousel--dot-2 { 
+	border-radius:500px;
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+	width:8px;
+	height:8px;
+	position:absolute;
+	left:159.5px;
+	top:16px;
+}
+.main__page__carousel--dot-3 { 
+	border-radius:500px;
+	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
+	width:8px;
+	height:8px;
+	position:absolute;
+	left:175.5px;
+	top:16px;
+}
