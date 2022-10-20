@@ -1,4 +1,10 @@
-  .app {
+html,body{overflow-y: scroll; }
+  .main__page-container{
+    margin-bottom: 10vh; // uv / em/ px/ % / chose whatever you need
+    
+  }
+  
+  .main__page-app {
     background-color: var(--primary-color);
     font-family: var(--font-base);
     display: flex;
@@ -62,7 +68,7 @@
     }
   }
   
-  .head-text {
+  .main__page-head-text {
     font-size: 2.75rem;
     font-weight: 800;
 
@@ -212,16 +218,16 @@
     text-align: right;
     text-decoration: none;
   }
-  .app__main_page_text_div{
+  .main__page_text-div{
     margin-left: auto;
     margin-right: auto;
   }
 
-  .app__header-subtext{
+  .main__page__header-subtext{
     color: var(--white-color)
   }
   
-  .app__main__page-carousel{
+  .main__page-carousel{
     position:relative;
     margin-left: auto;
     margin-right: auto;
