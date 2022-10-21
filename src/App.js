@@ -11,14 +11,14 @@ function App() {
 
   return (
     <Router>
-      <div className='main__page-container'>
+      {/* <div className='main__app-container'> */}
         <NavBar/>
         <Routes>
           <Route path='/Buildings' element={<Buildings />} />
           <Route path='/' element={<Home />} />
           <Route path='/Home' element={<Home />} />
         </Routes>
-      </div>
+      {/* </div> */}
     </Router>
   );
 }

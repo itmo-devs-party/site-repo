@@ -4,8 +4,9 @@ import './BuildingsPageHeader.scss';
 
 function BuildingsPageHeader() {
     return (
-      <div className="buildings__page__header-container">
-      <div class="e445_9457"><span  class="e445_9458">Buildings</span></div>
+      <div class="buildings__page__header-subcontainer">
+      <div class="e445_9457">
+        <span  class="e445_9458">Buildings</span></div>
       <div class="e450_3511">
         <div class="e450_3565"></div>
       </div>
@@ -16,10 +17,10 @@ function BuildingsPageHeader() {
           </div>
         </div>
       </div>
-      <div class="e445_9282">
+      <div class="buildings__page__header-queries-div">
         <div class="e450_3566"></div>
         <div class="e445_9283">
-          <div class="ei445_9283_44_2057"></div><span  class="ei445_9283_44_1928">Popular queries</span><span  class="ei445_9283_44_2058">See all</span>
+          <span  class="ei445_9283_44_1928">Popular queries</span>
         </div>
       </div>
     </div>
