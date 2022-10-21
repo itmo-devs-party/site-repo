@@ -1,12 +1,12 @@
 import React from "react";
+import { BuildingsPageHeader } from "../../components";
+import './Buildings.scss';
 
 const Buldings = () => {
   return (
-    <div>
-      <h1>
-        Kronva moment
-      </h1>
-    </div>
+      <div className='buildings__page_text-div'>
+      <BuildingsPageHeader />
+      </div>
   );
 };
 
