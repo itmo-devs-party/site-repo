@@ -1,11 +1,17 @@
 import React from "react";
+import { BuildingsList, BuildingsPageHeader } from "../../components";
+import './Buildings.scss';
 
 const Buldings = () => {
   return (
-    <div>
-      <h1>
-        Kronva moment
-      </h1>
+    <div class = 'buildings__page-main-container'>
+      <div class='buildings__page-header-container'>
+      <BuildingsPageHeader />
+      <div classx='buildings__page-list-container'>
+      <BuildingsList />
+      </div>
+      </div>
+      
     </div>
   );
 };

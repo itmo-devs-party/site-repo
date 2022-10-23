@@ -1,0 +1,16 @@
+html,body{overflow-y: scroll; }
+  .main__app-container{
+    margin-bottom: 10vh; // uv / em/ px/ % / chose whatever you need
+  }
+.buildings__page-header-container{
+    background-color: var(--white-color);
+    font-family: var(--font-base);
+    
+}
+.buildings__page-list-container{
+    background-color: var(--white-color);
+    font-family: var(--font-base);
+}
+.buildings__page-main-container{
+  margin-bottom: 10vh;
+}
