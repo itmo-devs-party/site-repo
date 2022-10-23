@@ -7,10 +7,51 @@ html,body{overflow-y: scroll; }
     font-family: var(--font-base);
     
 }
-.buildings__page-list-container{
-    background-color: var(--white-color);
-    font-family: var(--font-base);
+// .buildings__page-list-container{
+//     background-color: var(--white-color);
+//     font-family: var(--font-base);
+//     width: fit-content;
+//     height: fit-content;
+//     margin-left: auto;
+//     margin-right: auto;
+//     margin-bottom: 10vh;
+// }
+.buildingsList_Container{
+  background-color: var(--white-color);
+  font-family: var(--font-base);
+  width: fit-content;
+  height: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10vh;
 }
+
 .buildings__page-main-container{
   margin-bottom: 10vh;
+}
+ /* unvisited link */
+ a:link {
+  color: #3d5cff;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #3d5cff;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #3d5cff;
+  text-decoration: underline;;
+}
+
+/* selected link */
+a:active {
+  color: #3d5cff;
+  text-decoration: none;
+} 
+.building_div-link{
+
 }
