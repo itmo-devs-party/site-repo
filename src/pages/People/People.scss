@@ -1,0 +1,16 @@
+html,body{overflow-y: scroll; }
+
+.accordionContainer{
+  background-color: var(--white-color);
+  font-family: var(--font-base);
+  width: fit-content;
+  height: fit-content;
+}
+.people__page-header-container{
+    background-color: var(--white-color);
+    font-family: var(--font-base);
+    
+}
+.people-main-container{
+  margin-bottom: 10vh;
+}

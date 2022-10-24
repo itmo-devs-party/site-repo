@@ -1,2 +1,3 @@
 export {default as Home} from './Home/Home';
 export {default as Buildings} from './Buildings/Buildings';
+export {default as People} from './People/People';
