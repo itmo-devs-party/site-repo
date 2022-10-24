@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 // eslint-disable-next-line
-import { BuildingsList, BuildingsPageHeader } from "../../components";
+import { BuildingsPageHeader } from "../../components";
 import {data} from '../../constants'
 import './Buildings.scss';
 
