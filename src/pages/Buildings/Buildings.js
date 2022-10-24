@@ -20,7 +20,7 @@ const Buldings = () => {
           {
             buildingsData 
               .filter((val) => {
-                if(searchTerm == ""){
+                if(searchTerm === ""){
                   return val;
                 }else if(val.adress.toLowerCase().includes(searchTerm.toLowerCase())){
                   return val;
