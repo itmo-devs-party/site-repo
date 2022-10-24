@@ -1,13 +1,32 @@
-import React from 'react';
-import './People.scss'
+// import React,{useState} from 'react';
+// import './People.scss'
+// // import
+// // accordion component on react
 
-// create a component called People
+// function People(){
+//   const [selected, setSelected] = useState(null);
 
-const People = () => {
-  return (
-    <div className="People">
-      <h1>People</h1>
-    </div>
-  );
-}
-export default People;
+//   const toggle = (i) => {
+//     if (selected === i) {
+//       return setSelected(null);
+//     }
+//     setSelected(i);
+//   }
+//   return (
+//     <div className="wrapper">
+//       <div className="accordion">
+//         {data.map((item, i) => (
+//           <div className='item'>
+//           <div className = 'title' key={i} onClick={() => toggle(i)}>
+//             <h2> {item.question} </h2>
+//           <span> {selected === i ? '-' : '+' }</span>
+//           </div>
+//           <div className='content'>{item.answer}</div>
+//           </div>          
+//           ))}
+//       </div>
+//     </div>
+//   )
+// }
+
+// export default People;

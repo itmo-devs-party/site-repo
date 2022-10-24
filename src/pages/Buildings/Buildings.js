@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 // eslint-disable-next-line
 import { BuildingsPageHeader } from "../../components";
-import {data} from '../../constants'
+import {buildingsData} from '../../constants'
 import './Buildings.scss';
 
 const Buldings = () => {
@@ -18,7 +18,7 @@ const Buldings = () => {
         </div>
         <div className="buildingsList_Container">
           {
-            data 
+            buildingsData 
               .filter((val) => {
                 if(searchTerm == ""){
                   return val;
