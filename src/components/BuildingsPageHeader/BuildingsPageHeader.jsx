@@ -1,12 +1,12 @@
 import React from "react";
-import './BuildingsPageHeader.scss';
-
+import "./BuildingsPageHeader.scss";
 
 function BuildingsPageHeader() {
-    return (
-      <div class="buildings__page__header-subcontainer">
+  return (
+    <div class="buildings__page__header-subcontainer">
       <div class="searchInput__Container-heading-container">
-        <span  class="searchInput__Container-heading">Buildings</span></div>
+        <span class="searchInput__Container-heading">Buildings</span>
+      </div>
       <div class="searchInput__Container-logo">
         <div class="searchInput-logo"></div>
       </div>
@@ -21,6 +21,6 @@ function BuildingsPageHeader() {
         </div>
       </div> */}
     </div>
-    );
-};
+  );
+}
 export default BuildingsPageHeader;
