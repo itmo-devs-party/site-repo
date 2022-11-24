@@ -4,3 +4,6 @@ export {default as MainPageCarousel} from './MainPageCarousel/MainPageCarousel';
 export {default as BuildingsPageHeader} from './BuildingsPageHeader/BuildingsPageHeader';
 export {default as BuildingsList} from './BuildingsList/BuildingsList';
 export {default as AccordionComponent} from './AccordionComponent/AccordionComponent';
+export {default as YandexMap} from './YandexMap/YandexMap';
+export {default as MainPageTitle} from './MainPageTitle/MainPageTitle';
+export {default as MapPageHeader} from './MapPageHeader/MapPageHeader';
