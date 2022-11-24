@@ -23,6 +23,20 @@ html,body{overflow-y: scroll; }
   margin-right: auto;
   margin-bottom: 10vh;
 }
+.buildings__page-header {
+  background-color: var(--primary-color);
+  font-family: var(--font-base);
+  display: flex;
+  padding: 1.25rem;
+  flex-direction: column;
+  padding: 2vh 0px 2vh 2vw;
+  img {
+    border-radius: 50%;
+    width: 6vh;
+    height: 6vh;
+    float: right;
+  }
+}
 
 .buildings__page-main-container{
   margin-bottom: 10vh;
@@ -52,4 +66,8 @@ a:active {
 } 
 .building_div-link{
 
+}
+.buildings__page-header-title{
+  font-weight: 600;
+  color: var(--white-color);
 }

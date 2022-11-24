@@ -2,6 +2,7 @@ import React, { useState } from "react";
 // eslint-disable-next-line
 import { BuildingsPageHeader } from "../../components";
 import { buildingsData } from "../../constants";
+import { images } from "../../constants";
 import "./Buildings.scss";
 
 const Buldings = () => {
@@ -9,6 +10,14 @@ const Buldings = () => {
   return (
     <>
       <div className="buildingsContainer">
+        <div className="buildings__page-header">
+        <h1 className="buildings__page-header-title">
+          Buildings Page
+          <img src={images.AppLogo} alt="logo" />
+        </h1>
+        </div>
+          {/* <div className="aboba"> */}
+            
         <div className="searchInput_Container">
           <BuildingsPageHeader />
           <input
@@ -18,10 +27,13 @@ const Buldings = () => {
             onChange={(event) => {
               setSearchTerm(event.target.value);
             }}
-          />
+            />
+          
         </div>
+      {/* </div> */}
         <div className="buildingsList_Container">
           {buildingsData
+          // eslint-disable-next-line
             .filter((val) => {
               if (searchTerm === "") {
                 return val;
@@ -43,7 +55,8 @@ const Buldings = () => {
                 </div>
               );
             })}
-        </div>
+          </div>
+        
       </div>
     </>
   );
