@@ -2,14 +2,14 @@ html,
 body {
   overflow-y: scroll;
 }
-.home__page-container {
+.map__page-container {
   overflow: hidden;
   margin-bottom: 10vh; // uv / em/ px/ % / chose whatever you need
 }
-.home__page-main-div{
+.map__page-main-div{
   margin-bottom: 10vh;
 }
-.home__page-header {
+.map__page-header {
   background-color: var(--primary-color);
   font-family: var(--font-base);
   display: flex;
@@ -73,7 +73,7 @@ body {
   }
 }
 
-.home__page-header-text {
+.map__page-header-text {
   font-size: 2.5rem;
   font-weight: 800;
 
@@ -209,7 +209,7 @@ body {
   }
 }
 
-.home__page_div {
+.map__page_div {
   // width: 80%;
   // height: 80%;
   // background: var(--gray-color);
@@ -223,18 +223,11 @@ body {
   text-align: right;
   text-decoration: none;
 }
-.home__page-content-body {
+.map__page-content-body {
   margin-left: auto;
   margin-right: auto;
 }
 
-.home__page__header-subtext {
+.map__page__header-subtext {
   color: var(--white-color);
-}
-
-.home__page-carousel {
-  position: relative;
-  margin-left: auto;
-  margin-right: auto;
-  width: 323px;
 }

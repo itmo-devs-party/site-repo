@@ -1,16 +1,73 @@
 html,body{overflow-y: scroll; }
-  .main__app-container{
-    margin-bottom: 10vh; // uv / em/ px/ % / chose whatever you need
-  }
+
 .buildings__page-header-container{
     background-color: var(--white-color);
     font-family: var(--font-base);
     
 }
-.buildings__page-list-container{
-    background-color: var(--white-color);
-    font-family: var(--font-base);
+// .buildings__page-list-container{
+//     background-color: var(--white-color);
+//     font-family: var(--font-base);
+//     width: fit-content;
+//     height: fit-content;
+//     margin-left: auto;
+//     margin-right: auto;
+//     margin-bottom: 10vh;
+// }
+.buildingsList_Container{
+  background-color: var(--white-color);
+  font-family: var(--font-base);
+  width: fit-content;
+  height: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10vh;
 }
+.buildings__page-header {
+  background-color: var(--primary-color);
+  font-family: var(--font-base);
+  display: flex;
+  padding: 1.25rem;
+  flex-direction: column;
+  padding: 2vh 0px 2vh 2vw;
+  img {
+    border-radius: 50%;
+    width: 6vh;
+    height: 6vh;
+    float: right;
+  }
+}
+
 .buildings__page-main-container{
   margin-bottom: 10vh;
+}
+ /* unvisited link */
+ a:link {
+  color: #3d5cff;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #3d5cff;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #3d5cff;
+  text-decoration: underline;;
+}
+
+/* selected link */
+a:active {
+  color: #3d5cff;
+  text-decoration: none;
+} 
+.building_div-link{
+
+}
+.buildings__page-header-title{
+  font-weight: 600;
+  color: var(--white-color);
 }
