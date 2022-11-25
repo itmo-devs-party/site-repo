@@ -12,6 +12,7 @@ body {
 }
 
 .searchInput_Container {
+  min-width: 350px;
   overflow: hidden;
   // width: 375px;
   // height: 180px;
@@ -74,8 +75,8 @@ body {
   border-radius: 50%;
 }
 .searchInput__Container-search {
-  width: 48vw;
-
+  width: 48.6vw;
+  min-width: 330px;
   margin-right: 10px;
   height: 48px;
   position: relative;
