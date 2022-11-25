@@ -9,7 +9,7 @@ const YandexMap = () =>
   load: 'Map,Placemark,control.ZoomControl,control.FullscreenControl,geoObject.addon.balloon'
 }}>
   <div style={{width: '100%', height: 'auto' ,position: 'relative', margin: '0px 0 0 0' }}>
-            <Box sx={{ display: 'flex', justifyContent: 'center', margin: '0 0 0px 0', height: { xs:500, md: 700 }}}>
+            <Box sx={{ display: 'flex', justifyContent: 'center', margin: '0 0 0px 0', height: { xs:1000, md: 1000 }}}>
                       <Map width='100%' height='auto' defaultState={{
                       center: [59.9490959,30.3085916],
                       zoom: 12,

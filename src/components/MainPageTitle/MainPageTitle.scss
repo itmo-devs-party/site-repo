@@ -1,23 +1,23 @@
   
-  .main__page-text {
-    width: 323px;
-    height: 216px;
-    // margin-top: 75%;
-    position: sticky;
-    left: 26px;
-    top: 61.77775573730469px;
-    box-shadow: 0px 8px 12px
-      rgba(
-        184.00000423192978,
-        184.00000423192978,
-        210.00000268220901,
-        0.20000000298023224
-      );
-    border-top-left-radius: 12px;
-    border-top-right-radius: 12px;
-    border-bottom-left-radius: 12px;
-    border-bottom-right-radius: 12px;
-  }
+  // .main__page-text {
+  //   width: 323px;
+  //   height: 216px;
+  //   // margin-top: 75%;
+  //   position: sticky;
+  //   left: 26px;
+  //   top: 61.77775573730469px;
+  //   box-shadow: 0px 8px 12px
+  //     rgba(
+  //       184.00000423192978,
+  //       184.00000423192978,
+  //       210.00000268220901,
+  //       0.20000000298023224
+  //     );
+  //   border-top-left-radius: 12px;
+  //   border-top-right-radius: 12px;
+  //   border-bottom-left-radius: 12px;
+  //   border-bottom-right-radius: 12px;
+  // }
   .main__page__header {
     box-shadow: 0px 8px 12px
       rgba(
@@ -38,23 +38,26 @@
     border-bottom-right-radius: 12px;
   }
   .main__page__header-div {
-    box-shadow: 0px 8px 12px
-      rgba(
-        184.00000423192978,
-        184.00000423192978,
-        210.00000268220901,
-        0.20000000298023224
-      );
     margin: auto;
     padding: 10px;
-    width: 375px;
+    min-width: 40vw;
+    width: 50vw;
+    max-width: 60vw;
     height: 70px;
     position: relative;
+    box-shadow: 0px 8px 12px
+    rgba(
+      184.00000423192978,
+      184.00000423192978,
+      210.00000268220901,
+      0.20000000298023224
+      );
     background-color: var(--white-color);
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+    margin-bottom: 30px;
   }
   // .main__page__header-div-shadow {
     
@@ -78,20 +81,28 @@
     text-align: left;
     font-size: 18px;
     letter-spacing: 0;
-    line-height: px;
+    // line-height: px;
+    font-weight: 500;
   }
   .main__page__header-link-1 {
     color: rgba(61.16404116153717, 92.17780977487564, 255, 1);
-    width: 46px;
+    width: fit-content;
     height: 20px;
     position: relative;
-    left: 200px;
-    top: 25%;
+
+    // left: 200px;
+    // left: 75%;
+    // top: 25%;
+    // line-height: px;
+
+    float: right;
+    margin-right: 20px; 
+    margin-top: 15px;
     font-family: Poppins;
     text-align: right;
     font-size: 14px;
     letter-spacing: 0;
-    line-height: px;
+    font-weight: 500;
   }
 
   
