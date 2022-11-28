@@ -13,7 +13,7 @@ const Home = () => {
           Hello there
         </h1>
         <h3 className="home__page__header-subtext">
-          This is what we have for you for today
+          This is what we have for you today
         </h3>
       </div>
         <MainPageTitle />
