@@ -1,3 +1,9 @@
 export {default as images} from './images';
 export {default as buildingsData} from './buildingsData.json';
 export {default as peopleData} from './peopleData.json';
+export {default as birzha} from '../constants/adresses/birzha.json';
+export {default as chajkovskogo} from '../constants/adresses/chajkovskogo.json';
+export {default as kronv} from '../constants/adresses/kronv.json';
+export {default as vyazma} from '../constants/adresses/vyazma.json';
+export {default as grivcova} from '../constants/adresses/grivcova.json';
+export {default as all} from '../constants/adresses/all.json';

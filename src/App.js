@@ -5,7 +5,7 @@ import "./App.scss";
 import { NavBar } from "./container";
 
 // eslint-disable-next-line
-import { Home, Buildings, People, YaMap } from "./pages";
+import { Home, Buildings, People, YaMap, Kronv } from "./pages";
 
 function App() {
   return (
@@ -22,6 +22,7 @@ function App() {
         {/* <Route path="/Buildings/:id" element={<Buildings />} /> */}
         
         <Route path="/Map" element={<YaMap />} /> 
+        <Route path="/Kronv" element={<Kronv />} /> 
       </Routes>
       {/* </div> */}
     </Router>

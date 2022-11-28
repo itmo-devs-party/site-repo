@@ -1,13 +1,14 @@
 import React from "react";
 import "./NavBar.scss";
-// import {images} from '../../constants';
+// eslint-disable-next-line
+import {images} from '../../constants';
 
 function NavBar() {
   return (
     <nav className="app__navbar">
-      <div className="app__navbar-logo">
+      {/* <div className="app__navbar-logo"> */}
         {/* <img src = {images.AppLogo} alt = "logo"/> */}
-      </div>
+      {/* </div> */}
       <ul className="app__navbar-links">
         {["Home", "Buildings", "Scan", "Map", "People"].map((item) => (
           <li key={`link-${item}`}>

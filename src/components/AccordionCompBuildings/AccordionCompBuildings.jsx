@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import "./AccordionComponent.scss";
+import "./AccordionCompBuildings.scss";
 import { peopleData } from "../../constants";
 
-function AccordionComponent() {
+function AccordionCompBuildings() {
   const [selected, setSelected] = useState(null);
 
   const toggle = (i) => {
@@ -36,4 +36,4 @@ function AccordionComponent() {
   );
 }
 
-export default AccordionComponent;
+export default AccordionCompBuildings;
