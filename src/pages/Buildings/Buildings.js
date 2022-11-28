@@ -1,11 +1,15 @@
 import React, { useState } from "react";
 // eslint-disable-next-line
 import { BuildingsPageHeader } from "../../components";
-import { buildingsData } from "../../constants";
-import { images } from "../../constants";
+// eslint-disable-next-line
+import { buildingsData, all } from "../../constants";
+// eslint-disable-next-line
+import { images, kronv } from "../../constants";
 import "./Buildings.scss";
 
-const Buldings = () => {
+
+
+function Buldings() {
   const [searchTerm, setSearchTerm] = useState("");
   return (
     <>
@@ -21,7 +25,7 @@ const Buldings = () => {
         <div className="searchInput_Container">
           <BuildingsPageHeader />
           <input
-            class="searchInput__Container-search"
+            className="searchInput__Container-search"
             type="text"
             placeholder="Search here..."
             onChange={(event) => {
@@ -32,13 +36,13 @@ const Buldings = () => {
         </div>
       {/* </div> */}
         <div className="buildingsList_Container">
-          {buildingsData
+          {all
           // eslint-disable-next-line
             .filter((val) => {
               if (searchTerm === "") {
                 return val;
               } else if (
-                val.adress.toLowerCase().includes(searchTerm.toLowerCase())
+                val.title.toLowerCase().includes(searchTerm.toLowerCase())
               ) {
                 return val;
               }
@@ -47,8 +51,8 @@ const Buldings = () => {
               return (
                 <div className="building_div" key={val.id}>
                   <img src={val.image} alt="" />
-                  <h3>{val.adress}</h3>
-                  <p className="person">{val.person}</p>
+                  <h3 className="buildings-adress-title">{val.title}</h3>
+                  <p className="adress-list">{val.list[0]}</p>
                   <a className="building_div-link" href={val.link}>
                     See more
                   </a>
