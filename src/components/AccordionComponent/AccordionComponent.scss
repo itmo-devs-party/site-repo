@@ -11,6 +11,7 @@
   margin-bottom: 10vh;
 }
 .item {
+  font-family: var(--font-PT-sans-Caption);
   background-color: var(--main-color);
   margin-bottom: 5px;
   padding: 10px 20px;
@@ -52,4 +53,8 @@
 .email{
   font-weight: 500;
   color: var(--primary-color);
+}
+.job_title{
+  font-weight: 600;
+  margin-bottom: 5px;
 }
