@@ -21,13 +21,13 @@ function AccordionComponent() {
               <span> {selected === i ? "-" : "+"}</span>
             </div>
             <div className={selected === i ? "content show" : "content"}>
+              <p className="job_title">{item.job_title}</p>
               <p>{item.description}</p>
-              <p className="isu">
+              {/* <p className="isu">
                 <a href={`https://my.itmo.ru/persons/${item.isu}`}>
                   {item.isu}
                   </a>
-                </p>
-              <p className="email">{item.email}</p>
+                </p> */}
             </div>
           </div>
         ))}
