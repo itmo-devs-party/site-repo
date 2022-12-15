@@ -8,3 +8,4 @@ export {default as vyazma} from '../constants/adresses/vyazma.json';
 export {default as grivcova} from '../constants/adresses/grivcova.json';
 export {default as all} from '../constants/adresses/all.json';
 export {default as facts} from '../constants/facts.json';
+export {default as QRs} from '../constants/QRs.json';

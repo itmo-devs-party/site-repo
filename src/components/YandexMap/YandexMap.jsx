@@ -22,7 +22,7 @@ const YandexMap = () =>
                     }}  
                         />
                         <Placemark
-                        defaultGeometry={[59.9269688,30.2679992]} 
+                        defaultGeometry={[59.927288,30.338353]} 
                         properties={{
                           balloonContentBody: ' Университет ИТМО на Ломоносова 9'
                     }}  
@@ -34,7 +34,7 @@ const YandexMap = () =>
                     }}  
                         />
                         <Placemark
-                        defaultGeometry={[59.9423948,30.2947174]} 
+                        defaultGeometry={[59.942719,30.296752]} 
                         properties={{
                         balloonContentBody: 'Биржевая линия, 4'
                     }}  
@@ -49,6 +49,42 @@ const YandexMap = () =>
                         defaultGeometry={[59.9462409,30.340817]} 
                         properties={{
                         balloonContentBody: 'ул. Чайковского, 11/2'
+                    }}  
+                        />
+                        <Placemark
+                        defaultGeometry={[60.638921,30.004207]} 
+                        properties={{
+                        balloonContentBody: 'Ягодное'
+                    }}  
+                        />
+                        <Placemark
+                        defaultGeometry={[59.851263,30.376972]} 
+                        properties={{
+                        balloonContentBody: 'Общежитие № 3'
+                    }}  
+                        />
+                        <Placemark
+                        defaultGeometry={[59.936521,30.500014]} 
+                        properties={{
+                        balloonContentBody: 'Общежитие № 4'
+                    }}  
+                        />
+                        <Placemark
+                        defaultGeometry={[59.871053,30.307154]} 
+                        properties={{
+                        balloonContentBody: 'Межвузовский студенческий городок'
+                    }}  
+                        />
+                        <Placemark
+                        defaultGeometry={[59.968443,30.305331]} 
+                        properties={{
+                        balloonContentBody: 'Доходный дом'
+                    }}  
+                        />
+                        <Placemark
+                        defaultGeometry={[60.023129,30.387087]} 
+                        properties={{
+                        balloonContentBody: 'Общежитие № 6 СПбГЛТУ'
                     }}  
                         />
 

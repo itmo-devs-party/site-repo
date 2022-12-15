@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-has-content */
 import React, { useState } from "react";
 import "./AccordionComponent.scss";
 import { peopleData } from "../../constants";
@@ -17,17 +18,13 @@ function AccordionComponent() {
         {peopleData.map((item, i) => (
           <div className="item">
             <div className="title" key={i} onClick={() => toggle(i)}>
-              <h2> {item.name} </h2>
+              <h2 id={item.id}> {item.name}</h2>
+                <a href={"#"+item.id}></a>
               <span> {selected === i ? "-" : "+"}</span>
             </div>
             <div className={selected === i ? "content show" : "content"}>
               <p className="job_title">{item.job_title}</p>
               <p>{item.description}</p>
-              {/* <p className="isu">
-                <a href={`https://my.itmo.ru/persons/${item.isu}`}>
-                  {item.isu}
-                  </a>
-                </p> */}
             </div>
           </div>
         ))}

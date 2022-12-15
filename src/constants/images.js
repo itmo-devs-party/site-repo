@@ -27,6 +27,7 @@ import people from "../assets/people.svg";
 import preview_close_one from "../assets/preview_close_one.svg";
 import search from "../assets/search.svg";
 import time from "../assets/time.svg";
+
 // eslint-disable-next-line
 export default {
   account_off,
