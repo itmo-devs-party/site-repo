@@ -10,10 +10,10 @@ const Home = () => {
       <div className="home__page-header">
         <h1 className="home__page-header-text">
           <img src={images.AppLogo} alt="logo" />
-          Hello there
+          ITMO story
         </h1>
         <h3 className="home__page__header-subtext">
-          This is what we have for you today
+          we all are a part of this story
         </h3>
       </div>
         <MainPageTitle />
